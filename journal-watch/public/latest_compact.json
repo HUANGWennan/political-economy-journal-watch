@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-10T01:31:46.092120+00:00",
+  "generated_utc": "2026-11-10T01:32:37.095373+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:31:46.092120+00:00",
+      "checked_utc": "2026-11-10T01:32:37.095373+00:00",
       "latest_feed_date": "2026-09-23T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 10,
@@ -69,7 +69,7 @@
     {
       "journal": "Contributions to Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:31:46.092120+00:00",
+      "checked_utc": "2026-11-10T01:32:37.095373+00:00",
       "latest_feed_date": "2026-08-18T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 18,
@@ -87,7 +87,7 @@
     {
       "journal": "Economic Systems Research",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:31:46.092120+00:00",
+      "checked_utc": "2026-11-10T01:32:37.095373+00:00",
       "latest_feed_date": "2026-10-23T12:32:35Z",
       "possibly_stale": true,
       "total_feed_items": 34,
@@ -153,7 +153,7 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:31:46.092120+00:00",
+      "checked_utc": "2026-11-10T01:32:37.095373+00:00",
       "latest_feed_date": "2026-11-04T10:05:54Z",
       "possibly_stale": false,
       "total_feed_items": 23,
@@ -255,7 +255,7 @@
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:31:46.092120+00:00",
+      "checked_utc": "2026-11-10T01:32:37.095373+00:00",
       "latest_feed_date": "2026-11-02T01:57:31Z",
       "possibly_stale": false,
       "total_feed_items": 61,
@@ -327,7 +327,7 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:31:46.092120+00:00",
+      "checked_utc": "2026-11-10T01:32:37.095373+00:00",
       "latest_feed_date": "2026-10-30T08:51:10Z",
       "possibly_stale": false,
       "total_feed_items": 104,
@@ -579,7 +579,7 @@
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:31:46.092120+00:00",
+      "checked_utc": "2026-11-10T01:32:37.095373+00:00",
       "latest_feed_date": "2026-11-04T02:08:38Z",
       "possibly_stale": false,
       "total_feed_items": 162,
@@ -825,7 +825,7 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:31:46.092120+00:00",
+      "checked_utc": "2026-11-10T01:32:37.095373+00:00",
       "latest_feed_date": null,
       "possibly_stale": true,
       "total_feed_items": 61,
