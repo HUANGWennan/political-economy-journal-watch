@@ -11,6 +11,7 @@ import time
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
+from history import update_history
 
 ROOT = pathlib.Path(__file__).resolve().parent
 OUTPUT = ROOT / "public" / "latest.json"
@@ -169,6 +170,7 @@ def main():
     }
     compact_path = OUTPUT.parent / "latest_compact.json"
     compact_path.write_text(json.dumps(compact, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    update_history(snapshot, now)
     print("RESULT:", snapshot["status"], good, "/", len(FEEDS))
     return 0 if good else 2
 
