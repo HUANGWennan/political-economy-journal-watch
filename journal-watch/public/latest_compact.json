@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-10T01:34:10.170185+00:00",
+  "generated_utc": "2026-11-10T15:37:14.863814+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:34:10.170185+00:00",
+      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
       "latest_feed_date": "2026-09-23T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 10,
@@ -69,7 +69,7 @@
     {
       "journal": "Contributions to Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:34:10.170185+00:00",
+      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
       "latest_feed_date": "2026-08-18T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 18,
@@ -87,7 +87,7 @@
     {
       "journal": "Economic Systems Research",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:34:10.170185+00:00",
+      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
       "latest_feed_date": "2026-10-23T12:32:35Z",
       "possibly_stale": true,
       "total_feed_items": 34,
@@ -153,7 +153,7 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:34:10.170185+00:00",
+      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
       "latest_feed_date": "2026-11-04T10:05:54Z",
       "possibly_stale": false,
       "total_feed_items": 23,
@@ -255,7 +255,7 @@
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:34:10.170185+00:00",
+      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
       "latest_feed_date": "2026-11-02T01:57:31Z",
       "possibly_stale": false,
       "total_feed_items": 61,
@@ -327,7 +327,7 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:34:10.170185+00:00",
+      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
       "latest_feed_date": "2026-10-30T08:51:10Z",
       "possibly_stale": false,
       "total_feed_items": 104,
@@ -573,13 +573,13 @@
           "feed_date": "2026-08-18T05:23:38Z"
         }
       ],
-      "filtered_or_capped": true,
+      "filtered_or_capped": false,
       "error": null
     },
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:34:10.170185+00:00",
+      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
       "latest_feed_date": "2026-11-04T02:08:38Z",
       "possibly_stale": false,
       "total_feed_items": 162,
@@ -825,7 +825,7 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "checked_utc": "2026-11-10T01:34:10.170185+00:00",
+      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
       "latest_feed_date": null,
       "possibly_stale": true,
       "total_feed_items": 61,
@@ -833,6 +833,18 @@
         {
           "title": "Corrigendum to “The Kuznets curse: Rethinking inequality and development through political conflict in Brazil” [Structural Change and Economic Dynamics 80 (2026) 332-351]",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001827?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
+        {
+          "title": "Structural decoupling in global value chains: Divergent dynamics of fragility and amplification",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001864?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
+        {
+          "title": "Institutional shocks and capability revaluation: Labor-market disequilibrium and endogenous institutional adjustment",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001852?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         },
@@ -995,18 +1007,6 @@
         {
           "title": "The profitability of bank capital and household debt",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001803?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "Institutional Shocks and Capability Revaluation: Labor-Market Disequilibrium and Endogenous Institutional Adjustment",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001852?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "Structural decoupling in global value chains: Divergent dynamics of fragility and amplification",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001864?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         },
