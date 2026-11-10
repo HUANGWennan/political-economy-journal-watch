@@ -77,6 +77,14 @@ class HistoryTest(unittest.TestCase):
         after = self.merge([first, second])
         self.assertEqual(after["total_historical_articles"], 2)
 
+    def test_article_after_temporary_feed_error_is_preserved(self):
+        self.merge([item("Article A")])
+        self.merge([], self.next, status="error")
+        recovered = self.merge([item("Article A"), item("Article B")],
+                               self.next + dt.timedelta(days=1))
+        self.assertEqual(recovered["new_this_run"], 1)
+        self.assertEqual(recovered["total_historical_articles"], 2)
+
     def test_broken_history_refuses_to_reinitialize(self):
         self.history.write_text("invalid-json", encoding="utf8")
         with self.assertRaises(ValueError):
