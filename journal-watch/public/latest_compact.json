@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-10T15:37:14.863814+00:00",
+  "generated_utc": "2026-11-11T15:16:04.078830+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "status": "ok",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "latest_feed_date": "2026-09-23T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 10,
@@ -69,7 +69,7 @@
     {
       "journal": "Contributions to Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "latest_feed_date": "2026-08-18T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 18,
@@ -87,7 +87,7 @@
     {
       "journal": "Economic Systems Research",
       "status": "ok",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "latest_feed_date": "2026-10-23T12:32:35Z",
       "possibly_stale": true,
       "total_feed_items": 34,
@@ -153,10 +153,10 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "latest_feed_date": "2026-11-04T10:05:54Z",
       "possibly_stale": false,
-      "total_feed_items": 23,
+      "total_feed_items": 15,
       "items": [
         {
           "title": "Beyond the European Chips Act: Mobilizing Public Banks to Solve Europe’s Semiconductor Supply Chain Paradox",
@@ -255,7 +255,7 @@
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "latest_feed_date": "2026-11-02T01:57:31Z",
       "possibly_stale": false,
       "total_feed_items": 61,
@@ -327,11 +327,23 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
-      "latest_feed_date": "2026-10-30T08:51:10Z",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
+      "latest_feed_date": "2026-11-10T12:03:36Z",
       "possibly_stale": false,
-      "total_feed_items": 104,
+      "total_feed_items": 106,
       "items": [
+        {
+          "title": "The emperor has no batteries: internal protection and Europe's uneven bid for electromobility",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751111?af=R",
+          "doi": "10.1080/13563467.2026.2751111",
+          "feed_date": "2026-11-10T12:03:36Z"
+        },
+        {
+          "title": "The other China shock: EU critical and strategic minerals dependency in comparative-historical perspective",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751105?af=R",
+          "doi": "10.1080/13563467.2026.2751105",
+          "feed_date": "2026-11-10T03:26:42Z"
+        },
         {
           "title": "Globalization unravelling? ASML and the geopolitics of Europe-China tech decoupling",
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751102?af=R",
@@ -559,30 +571,18 @@
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2716631?af=R",
           "doi": "10.1080/13563467.2026.2716631",
           "feed_date": "2026-08-19T04:31:01Z"
-        },
-        {
-          "title": "When authoritarian capitalism fails at development: what Hungary’s accumulative state and the exhaustion of Orbánism teach us",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2716685?af=R",
-          "doi": "10.1080/13563467.2026.2716685",
-          "feed_date": "2026-08-18T05:24:02Z"
-        },
-        {
-          "title": "Beyond ‘more’ or ‘less’ state action: how Germans discuss the economy and policies shaping it",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2716630?af=R",
-          "doi": "10.1080/13563467.2026.2716630",
-          "feed_date": "2026-08-18T05:23:38Z"
         }
       ],
-      "filtered_or_capped": false,
+      "filtered_or_capped": true,
       "error": null
     },
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "latest_feed_date": "2026-11-04T02:08:38Z",
       "possibly_stale": false,
-      "total_feed_items": 162,
+      "total_feed_items": 138,
       "items": [
         {
           "title": "Wages, Productivity, and the Limits of Traditional Growth Policies: A Critique of Ruiz-Nápoles’s ‘Challenges for Mexico’s Growth Policy’",
@@ -729,28 +729,10 @@
           "feed_date": "2026-09-23T01:55:07Z"
         },
         {
-          "title": "Neo-Liberalism and the Slowing of Growth in the Past Four Decades",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724139?af=R",
-          "doi": "10.1080/09538259.2026.2724139",
-          "feed_date": "2026-09-15T09:47:45Z"
-        },
-        {
           "title": "Threads of the Invisible Hand: A Review of Hayek’s Bastards",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2726921?af=R",
           "doi": "10.1080/09538259.2026.2726921",
           "feed_date": "2026-09-15T09:47:30Z"
-        },
-        {
-          "title": "The Magical Thinking of Financial Literacy",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724129?af=R",
-          "doi": "10.1080/09538259.2026.2724129",
-          "feed_date": "2026-09-15T09:45:32Z"
-        },
-        {
-          "title": "The Epistemological Drift of Economics: Mathematization, Depoliticization, and Democratic Crisis from a Paolo Sylos Labini Perspective",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724133?af=R",
-          "doi": "10.1080/09538259.2026.2724133",
-          "feed_date": "2026-09-15T09:39:09Z"
         },
         {
           "title": "Monetary Austerity within Economic War Machine: The Unexpected Lessons of Russia’s Invasion of Ukraine",
@@ -769,18 +751,6 @@
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2728063?af=R",
           "doi": "10.1080/09538259.2026.2728063",
           "feed_date": "2026-09-10T09:54:23Z"
-        },
-        {
-          "title": "Challenges for Mexico’s Growth Policy",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724135?af=R",
-          "doi": "10.1080/09538259.2026.2724135",
-          "feed_date": "2026-09-10T09:24:57Z"
-        },
-        {
-          "title": "Distributional and Macroeconomic Effects of Trump 2.0",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724131?af=R",
-          "doi": "10.1080/09538259.2026.2724131",
-          "feed_date": "2026-09-10T09:24:37Z"
         },
         {
           "title": "Monetary Sovereignty and Catastrophe Fiscal Capacity: Turkey, Japan, and the Limits of Disaster Self-Insurance",
@@ -825,7 +795,7 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "latest_feed_date": null,
       "possibly_stale": true,
       "total_feed_items": 61,

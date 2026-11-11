@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-10T15:37:14.863814+00:00",
+  "generated_utc": "2026-11-11T15:16:04.078830+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "rss_url": "https://academic.oup.com/rss/site_5437/3298.xml",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -112,7 +112,7 @@
     {
       "journal": "Contributions to Political Economy",
       "rss_url": "https://academic.oup.com/rss/site_5445/3306.xml",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -287,7 +287,7 @@
     {
       "journal": "Economic Systems Research",
       "rss_url": "https://www.tandfonline.com/feed/rss/cesr20",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -606,11 +606,11 @@
     {
       "journal": "International Journal of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/mijp20",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 23,
+      "items_count": 15,
       "latest_feed_date": "2026-11-04T10:05:54Z",
       "possibly_stale": false,
       "items": [
@@ -621,7 +621,7 @@
           "doi": "10.1080/08911916.2026.2743824",
           "feed_date": "2026-11-04T10:05:54Z",
           "raw_date": "2026-11-04T10:05:54Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         },
         {
           "title": "Financing Sustainable Infrastructure and Multilateral Development Banks: The BRICS Experience1",
@@ -648,7 +648,7 @@
           "doi": "10.1080/08911916.2026.2742355",
           "feed_date": "2026-11-02T02:44:03Z",
           "raw_date": "2026-11-02T02:44:03Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         },
         {
           "title": "Public Banking: Theory, Options and Policy Challenges—An Introductory Note",
@@ -657,7 +657,7 @@
           "doi": "10.1080/08911916.2026.2740666",
           "feed_date": "2026-10-29T02:32:01Z",
           "raw_date": "2026-10-29T02:32:01Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         },
         {
           "title": "Money, State, and the Two Masters: The Political Economy of China's CBDC",
@@ -675,7 +675,7 @@
           "doi": "10.1080/08911916.2026.2739372",
           "feed_date": "2026-10-22T06:58:35Z",
           "raw_date": "2026-10-22T06:58:35Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         },
         {
           "title": "Public Banks and Systemic Risk: A View From the Circuit",
@@ -684,7 +684,7 @@
           "doi": "10.1080/08911916.2026.2737156",
           "feed_date": "2026-10-21T12:36:05Z",
           "raw_date": "2026-10-21T12:36:05Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         },
         {
           "title": "From the Wall Street Consensus to the Sustainable Development Convention—The Multilevel Role of Development Banks",
@@ -693,7 +693,7 @@
           "doi": "10.1080/08911916.2026.2743863",
           "feed_date": "2026-10-21T11:49:55Z",
           "raw_date": "2026-10-21T11:49:55Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         },
         {
           "title": "The Role of Public Development Banks in Supporting Sustainable Development: The Case of Banco Da Amazonia",
@@ -702,7 +702,7 @@
           "doi": "10.1080/08911916.2026.2740668",
           "feed_date": "2026-10-15T02:28:59Z",
           "raw_date": "2026-10-15T02:28:59Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         },
         {
           "title": "The Expansive Potential of the Public Bank as an Ordinary Instrument of Economic Policy",
@@ -711,7 +711,7 @@
           "doi": "10.1080/08911916.2026.2739371",
           "feed_date": "2026-10-01T01:54:48Z",
           "raw_date": "2026-10-01T01:54:48Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         },
         {
           "title": "Public Banks and the Ecological Transition: A Euro Proposal",
@@ -720,7 +720,7 @@
           "doi": "10.1080/08911916.2026.2733589",
           "feed_date": "2026-09-29T12:10:50Z",
           "raw_date": "2026-09-29T12:10:50Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         },
         {
           "title": "How to Finance the Transition to Sustainability: A Post-Keynesian Institutionalist Role for Development Banking",
@@ -729,7 +729,7 @@
           "doi": "10.1080/08911916.2026.2733591",
           "feed_date": "2026-09-18T04:38:10Z",
           "raw_date": "2026-09-18T04:38:10Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         },
         {
           "title": "The Potential of Public Credit Funds",
@@ -738,7 +738,7 @@
           "doi": "10.1080/08911916.2026.2730245",
           "feed_date": "2026-09-15T07:37:07Z",
           "raw_date": "2026-09-15T07:37:07Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         },
         {
           "title": "Democratizing Finance: A Proposal for Community-Driven Microbanks to Address Local Needs",
@@ -747,86 +747,14 @@
           "doi": "10.1080/08911916.2026.2727348",
           "feed_date": "2026-09-08T07:51:40Z",
           "raw_date": "2026-09-08T07:51:40Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "Criticisms of Job Guarantee: How to Improve the Path to Full Employment of Modern Monetary Theory",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2665650?af=R",
-          "identifier": "doi:10.1080/08911916.2026.2665650",
-          "doi": "10.1080/08911916.2026.2665650",
-          "feed_date": "2026-08-01T06:31:26Z",
-          "raw_date": "2026-08-01T06:31:26Z",
-          "summary_excerpt": "Volume 55, Issue 2, Summer 2026, Page 210-228<br/>. <br/>"
-        },
-        {
-          "title": "The Historical Architecture of De-development: Ethnonational Governance and the Production of Devastation in Rojhelat",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2701040?af=R",
-          "identifier": "doi:10.1080/08911916.2026.2701040",
-          "doi": "10.1080/08911916.2026.2701040",
-          "feed_date": "2026-07-29T06:51:54Z",
-          "raw_date": "2026-07-29T06:51:54Z",
-          "summary_excerpt": "Volume 55, Issue 2, Summer 2026, Page 299-324<br/>. <br/>"
-        },
-        {
-          "title": "International Competition, Real Exchange Rates and Absolute Cost Advantage: An Empirical Investigation of the Australian Economy",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2689355?af=R",
-          "identifier": "doi:10.1080/08911916.2026.2689355",
-          "doi": "10.1080/08911916.2026.2689355",
-          "feed_date": "2026-07-29T06:42:34Z",
-          "raw_date": "2026-07-29T06:42:34Z",
-          "summary_excerpt": "Volume 55, Issue 2, Summer 2026, Page 252-271<br/>. <br/>"
-        },
-        {
-          "title": "Business Cycles, Investment, and Profits in Colombia: A Marxist Political Economy Approach",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2694468?af=R",
-          "identifier": "doi:10.1080/08911916.2026.2694468",
-          "doi": "10.1080/08911916.2026.2694468",
-          "feed_date": "2026-07-29T06:36:25Z",
-          "raw_date": "2026-07-29T06:36:25Z",
-          "summary_excerpt": "Volume 55, Issue 2, Summer 2026, Page 229-251<br/>. <br/>"
-        },
-        {
-          "title": "Financialization of the Strategies of Western Listed Groups and Productive Investment: Between Rapprochements and Diversity",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2689353?af=R",
-          "identifier": "doi:10.1080/08911916.2026.2689353",
-          "doi": "10.1080/08911916.2026.2689353",
-          "feed_date": "2026-07-29T06:30:17Z",
-          "raw_date": "2026-07-29T06:30:17Z",
-          "summary_excerpt": "Volume 55, Issue 2, Summer 2026, Page 175-209<br/>. <br/>"
-        },
-        {
-          "title": "Nationhood and Post-Keynesianism",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2691812?af=R",
-          "identifier": "doi:10.1080/08911916.2026.2691812",
-          "doi": "10.1080/08911916.2026.2691812",
-          "feed_date": "2026-07-29T06:13:47Z",
-          "raw_date": "2026-07-29T06:13:47Z",
-          "summary_excerpt": "Volume 55, Issue 2, Summer 2026, Page 162-174<br/>. <br/>"
-        },
-        {
-          "title": "The COVID Pandemic and Its Aftermath: Missed Opportunities for Avoiding a Future of Authoritarian Neoliberalism",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2703629?af=R",
-          "identifier": "doi:10.1080/08911916.2026.2703629",
-          "doi": "10.1080/08911916.2026.2703629",
-          "feed_date": "2026-07-29T06:06:03Z",
-          "raw_date": "2026-07-29T06:06:03Z",
-          "summary_excerpt": "Volume 55, Issue 2, Summer 2026, Page 145-161<br/>. <br/>"
-        },
-        {
-          "title": "How to Finance Green Growth in Ethiopia",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2665648?af=R",
-          "identifier": "doi:10.1080/08911916.2026.2665648",
-          "doi": "10.1080/08911916.2026.2665648",
-          "feed_date": "2026-05-12T08:52:30Z",
-          "raw_date": "2026-05-12T08:52:30Z",
-          "summary_excerpt": "Volume 55, Issue 2, Summer 2026, Page 272-298<br/>. <br/>"
+          "summary_excerpt": "Volume 55, Issue 3, Fall 2026<br/>. <br/>"
         }
       ]
     },
     {
       "journal": "International Review of Applied Economics",
       "rss_url": "https://www.tandfonline.com/feed/rss/cira20",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -1388,14 +1316,32 @@
     {
       "journal": "New Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/cnpe20",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 104,
-      "latest_feed_date": "2026-10-30T08:51:10Z",
+      "items_count": 106,
+      "latest_feed_date": "2026-11-10T12:03:36Z",
       "possibly_stale": false,
       "items": [
+        {
+          "title": "The emperor has no batteries: internal protection and Europe's uneven bid for electromobility",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751111?af=R",
+          "identifier": "doi:10.1080/13563467.2026.2751111",
+          "doi": "10.1080/13563467.2026.2751111",
+          "feed_date": "2026-11-10T12:03:36Z",
+          "raw_date": "2026-11-10T12:03:36Z",
+          "summary_excerpt": ". <br/>"
+        },
+        {
+          "title": "The other China shock: EU critical and strategic minerals dependency in comparative-historical perspective",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751105?af=R",
+          "identifier": "doi:10.1080/13563467.2026.2751105",
+          "doi": "10.1080/13563467.2026.2751105",
+          "feed_date": "2026-11-10T03:26:42Z",
+          "raw_date": "2026-11-10T03:26:42Z",
+          "summary_excerpt": ". <br/>"
+        },
         {
           "title": "Globalization unravelling? ASML and the geopolitics of Europe-China tech decoupling",
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751102?af=R",
@@ -2337,11 +2283,11 @@
     {
       "journal": "Review of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/crpe20",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 162,
+      "items_count": 138,
       "latest_feed_date": "2026-11-04T02:08:38Z",
       "possibly_stale": false,
       "items": [
@@ -2562,39 +2508,12 @@
           "summary_excerpt": ". <br/>"
         },
         {
-          "title": "Neo-Liberalism and the Slowing of Growth in the Past Four Decades",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724139?af=R",
-          "identifier": "doi:10.1080/09538259.2026.2724139",
-          "doi": "10.1080/09538259.2026.2724139",
-          "feed_date": "2026-09-15T09:47:45Z",
-          "raw_date": "2026-09-15T09:47:45Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "Threads of the Invisible Hand: A Review of Hayek’s Bastards",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2726921?af=R",
           "identifier": "doi:10.1080/09538259.2026.2726921",
           "doi": "10.1080/09538259.2026.2726921",
           "feed_date": "2026-09-15T09:47:30Z",
           "raw_date": "2026-09-15T09:47:30Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "The Magical Thinking of Financial Literacy",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724129?af=R",
-          "identifier": "doi:10.1080/09538259.2026.2724129",
-          "doi": "10.1080/09538259.2026.2724129",
-          "feed_date": "2026-09-15T09:45:32Z",
-          "raw_date": "2026-09-15T09:45:32Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "The Epistemological Drift of Economics: Mathematization, Depoliticization, and Democratic Crisis from a Paolo Sylos Labini Perspective",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724133?af=R",
-          "identifier": "doi:10.1080/09538259.2026.2724133",
-          "doi": "10.1080/09538259.2026.2724133",
-          "feed_date": "2026-09-15T09:39:09Z",
-          "raw_date": "2026-09-15T09:39:09Z",
           "summary_excerpt": ". <br/>"
         },
         {
@@ -2622,24 +2541,6 @@
           "doi": "10.1080/09538259.2026.2728063",
           "feed_date": "2026-09-10T09:54:23Z",
           "raw_date": "2026-09-10T09:54:23Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "Challenges for Mexico’s Growth Policy",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724135?af=R",
-          "identifier": "doi:10.1080/09538259.2026.2724135",
-          "doi": "10.1080/09538259.2026.2724135",
-          "feed_date": "2026-09-10T09:24:57Z",
-          "raw_date": "2026-09-10T09:24:57Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "Distributional and Macroeconomic Effects of Trump 2.0",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724131?af=R",
-          "identifier": "doi:10.1080/09538259.2026.2724131",
-          "doi": "10.1080/09538259.2026.2724131",
-          "feed_date": "2026-09-10T09:24:37Z",
-          "raw_date": "2026-09-10T09:24:37Z",
           "summary_excerpt": ". <br/>"
         },
         {
@@ -2859,15 +2760,6 @@
           "summary_excerpt": ". <br/>"
         },
         {
-          "title": "The Political Economy of Central Bank Digital Currencies (CBDCs)",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2682511?af=R",
-          "identifier": "doi:10.1080/09538259.2026.2682511",
-          "doi": "10.1080/09538259.2026.2682511",
-          "feed_date": "2026-06-18T10:33:18Z",
-          "raw_date": "2026-06-18T10:33:18Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "Krishna Bharadwaj’s Legacy: The Apologia for an Objective Basis of Analysis in Economics",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2652035?af=R",
           "identifier": "doi:10.1080/09538259.2026.2652035",
@@ -2922,15 +2814,6 @@
           "summary_excerpt": ". <br/>"
         },
         {
-          "title": "CBDC as a Fantastic Object — Views on Monetary Utopia",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2675392?af=R",
-          "identifier": "doi:10.1080/09538259.2026.2675392",
-          "doi": "10.1080/09538259.2026.2675392",
-          "feed_date": "2026-06-02T12:27:36Z",
-          "raw_date": "2026-06-02T12:27:36Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "The Fiscal Channel of Unconventional Monetary Policy: Inside the Black Box",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2653739?af=R",
           "identifier": "doi:10.1080/09538259.2026.2653739",
@@ -2940,30 +2823,12 @@
           "summary_excerpt": ". <br/>"
         },
         {
-          "title": "CBDC and Stablecoins in the Eurozone: How Do They Affect Banking?",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2660698?af=R",
-          "identifier": "doi:10.1080/09538259.2026.2660698",
-          "doi": "10.1080/09538259.2026.2660698",
-          "feed_date": "2026-05-28T08:16:20Z",
-          "raw_date": "2026-05-28T08:16:20Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "Economic Theories, Protagonists and Facts: Collected Essays in the History of Economic Thought",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2666800?af=R",
           "identifier": "doi:10.1080/09538259.2026.2666800",
           "doi": "10.1080/09538259.2026.2666800",
           "feed_date": "2026-05-28T08:06:19Z",
           "raw_date": "2026-05-28T08:06:19Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "Reclaiming the Narrative: The Revival of Challenge",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2669570?af=R",
-          "identifier": "doi:10.1080/09538259.2026.2669570",
-          "doi": "10.1080/09538259.2026.2669570",
-          "feed_date": "2026-05-27T07:52:55Z",
-          "raw_date": "2026-05-27T07:52:55Z",
           "summary_excerpt": ". <br/>"
         },
         {
@@ -3093,15 +2958,6 @@
           "summary_excerpt": ". <br/>"
         },
         {
-          "title": "Reimagining the Monetary System: The Political Economy of Brazil’s Central Bank Digital Currency",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2608192?af=R",
-          "identifier": "doi:10.1080/09538259.2025.2608192",
-          "doi": "10.1080/09538259.2025.2608192",
-          "feed_date": "2026-02-19T05:48:45Z",
-          "raw_date": "2026-02-19T05:48:45Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "Gender Politics of Monetary Governance and Working capital Management in Germany and the Eurozone Money, Masculinities and Control,",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2629798?af=R",
           "identifier": "doi:10.1080/09538259.2026.2629798",
@@ -3147,15 +3003,6 @@
           "summary_excerpt": ". <br/>"
         },
         {
-          "title": "Rethinking Central Bank Money: The Endogeneity of CBDCs and post-Keynesian Theory",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2603468?af=R",
-          "identifier": "doi:10.1080/09538259.2025.2603468",
-          "doi": "10.1080/09538259.2025.2603468",
-          "feed_date": "2026-01-08T11:16:16Z",
-          "raw_date": "2026-01-08T11:16:16Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "Historically Established, but Institutionally Secured? Analyzing the Status of Heterodox Economics in Brazil",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2603461?af=R",
           "identifier": "doi:10.1080/09538259.2025.2603461",
@@ -3174,39 +3021,12 @@
           "summary_excerpt": ". <br/>"
         },
         {
-          "title": "Contrasting Views on CBDCs: Why a Digital Euro and Not a Digital Dollar?",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2592051?af=R",
-          "identifier": "doi:10.1080/09538259.2025.2592051",
-          "doi": "10.1080/09538259.2025.2592051",
-          "feed_date": "2025-12-11T02:09:29Z",
-          "raw_date": "2025-12-11T02:09:29Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "The Impact of CBDC-Based Disintermediation on the Banking Sector and the Economy: An SFC Approach",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2593445?af=R",
-          "identifier": "doi:10.1080/09538259.2025.2593445",
-          "doi": "10.1080/09538259.2025.2593445",
-          "feed_date": "2025-12-11T02:04:09Z",
-          "raw_date": "2025-12-11T02:04:09Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "Monetary Policy and the Open Economy: Old Debates and Its Neoclassical Narrowing",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2585369?af=R",
           "identifier": "doi:10.1080/09538259.2025.2585369",
           "doi": "10.1080/09538259.2025.2585369",
           "feed_date": "2025-12-04T09:53:48Z",
           "raw_date": "2025-12-04T09:53:48Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "Increasing Monetary and Financial Stability: The Potential Institutional Benefits of Central Bank Digital Currencies",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2578606?af=R",
-          "identifier": "doi:10.1080/09538259.2025.2578606",
-          "doi": "10.1080/09538259.2025.2578606",
-          "feed_date": "2025-12-04T03:35:34Z",
-          "raw_date": "2025-12-04T03:35:34Z",
           "summary_excerpt": ". <br/>"
         },
         {
@@ -3426,15 +3246,6 @@
           "summary_excerpt": "Volume 38, Issue sup1, August 2026, Page 56-71<br/>. <br/>"
         },
         {
-          "title": "The Future of Money — Central Bank Digital Currencies and/or Cryptocurrencies?: Safeguarding Monetary Sovereignty and Deterring U.S.–Owned Payment System Oligopolies",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2481424?af=R",
-          "identifier": "doi:10.1080/09538259.2025.2481424",
-          "doi": "10.1080/09538259.2025.2481424",
-          "feed_date": "2025-05-12T10:10:21Z",
-          "raw_date": "2025-05-12T10:10:21Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "Notes on Professor Petri’s Magnum Opus",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2473420?af=R",
           "identifier": "doi:10.1080/09538259.2025.2473420",
@@ -3525,15 +3336,6 @@
           "summary_excerpt": "Volume 38, Issue sup1, August 2026, Page 375-398<br/>. <br/>"
         },
         {
-          "title": "Karl Polanyi’s Political and Economic Thought: A Critical Guide",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2481412?af=R",
-          "identifier": "doi:10.1080/09538259.2025.2481412",
-          "doi": "10.1080/09538259.2025.2481412",
-          "feed_date": "2025-03-27T10:40:01Z",
-          "raw_date": "2025-03-27T10:40:01Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "Economic Policy Efficiency and Recovery in an Open Economy",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2462949?af=R",
           "identifier": "doi:10.1080/09538259.2025.2462949",
@@ -3558,15 +3360,6 @@
           "doi": "10.1080/09538259.2025.2467443",
           "feed_date": "2025-03-04T10:06:17Z",
           "raw_date": "2025-03-04T10:06:17Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "Bitcoin, Central Bank Digital Currency and the Loss of Money Value(s)",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2025.2456734?af=R",
-          "identifier": "doi:10.1080/09538259.2025.2456734",
-          "doi": "10.1080/09538259.2025.2456734",
-          "feed_date": "2025-03-03T11:39:59Z",
-          "raw_date": "2025-03-03T11:39:59Z",
           "summary_excerpt": ". <br/>"
         },
         {
@@ -3606,15 +3399,6 @@
           "summary_excerpt": "Volume 38, Issue sup1, August 2026, Page 30-55<br/>. <br/>"
         },
         {
-          "title": "Central Bank Digital Currencies: Much ado About Nothing?",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2445752?af=R",
-          "identifier": "doi:10.1080/09538259.2024.2445752",
-          "doi": "10.1080/09538259.2024.2445752",
-          "feed_date": "2025-01-09T10:27:56Z",
-          "raw_date": "2025-01-09T10:27:56Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "After the Accord: A History of Federal Reserve Open Market Operations, the US Government Securities Market, and Treasury Debt Management from 1951 to 1979",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2447789?af=R",
           "identifier": "doi:10.1080/09538259.2024.2447789",
@@ -3622,15 +3406,6 @@
           "feed_date": "2025-01-09T10:19:57Z",
           "raw_date": "2025-01-09T10:19:57Z",
           "summary_excerpt": "Volume 38, Issue sup1, August 2026, Page 498-500<br/>. <br/>"
-        },
-        {
-          "title": "Distributive Conflict, Monetary Theory of Distribution and the Banking Sector",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2436489?af=R",
-          "identifier": "doi:10.1080/09538259.2024.2436489",
-          "doi": "10.1080/09538259.2024.2436489",
-          "feed_date": "2025-01-06T11:53:39Z",
-          "raw_date": "2025-01-06T11:53:39Z",
-          "summary_excerpt": ". <br/>"
         },
         {
           "title": "Money and Capital: A Critique of Monetary Thought, The Dollar and Post-Capitalism (Routledge Frontiers of Political Economy)",
@@ -3669,15 +3444,6 @@
           "summary_excerpt": "Volume 38, Issue sup1, August 2026, Page 150-179<br/>. <br/>"
         },
         {
-          "title": "The Commons in an Age of Uncertainty: Decolonizing Nature, Economy and Society",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2410905?af=R",
-          "identifier": "doi:10.1080/09538259.2024.2410905",
-          "doi": "10.1080/09538259.2024.2410905",
-          "feed_date": "2024-11-05T10:12:02Z",
-          "raw_date": "2024-11-05T10:12:02Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "The deindustrialization of the Brazilian economy: new evidences and the role of 1990s productive restructuring in this process",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2405178?af=R",
           "identifier": "doi:10.1080/09538259.2024.2405178",
@@ -3687,30 +3453,12 @@
           "summary_excerpt": "Volume 38, Issue sup1, August 2026, Page 1-29<br/>. <br/>"
         },
         {
-          "title": "Income Distribution and the Elasticity of Substitution in the Works of Joan Robinson",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2410896?af=R",
-          "identifier": "doi:10.1080/09538259.2024.2410896",
-          "doi": "10.1080/09538259.2024.2410896",
-          "feed_date": "2024-10-14T11:12:41Z",
-          "raw_date": "2024-10-14T11:12:41Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "Keynes and the Long Run — to ‘Live Wisely and Agreeably and Well’",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2405142?af=R",
           "identifier": "doi:10.1080/09538259.2024.2405142",
           "doi": "10.1080/09538259.2024.2405142",
           "feed_date": "2024-10-08T09:15:37Z",
           "raw_date": "2024-10-08T09:15:37Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "A Contemporary Perspective on Social Classes and functional Income Distribution",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2397671?af=R",
-          "identifier": "doi:10.1080/09538259.2024.2397671",
-          "doi": "10.1080/09538259.2024.2397671",
-          "feed_date": "2024-10-03T11:13:06Z",
-          "raw_date": "2024-10-03T11:13:06Z",
           "summary_excerpt": ". <br/>"
         },
         {
@@ -3741,15 +3489,6 @@
           "summary_excerpt": "Volume 38, Issue sup1, August 2026, Page 487-489<br/>. <br/>"
         },
         {
-          "title": "Brief Encounter. The Distant Co-evolution of Régulation Theory and Evolutionary Economics",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2373737?af=R",
-          "identifier": "doi:10.1080/09538259.2024.2373737",
-          "doi": "10.1080/09538259.2024.2373737",
-          "feed_date": "2024-07-23T09:49:58Z",
-          "raw_date": "2024-07-23T09:49:58Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "Making the Ethiopian Banking System Ready for Green Growth and Development",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2354327?af=R",
           "identifier": "doi:10.1080/09538259.2024.2354327",
@@ -3777,15 +3516,6 @@
           "summary_excerpt": ". <br/>"
         },
         {
-          "title": "Gardiner Means’ Contributions to Post-Keynesian and Political Economics",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2336508?af=R",
-          "identifier": "doi:10.1080/09538259.2024.2336508",
-          "doi": "10.1080/09538259.2024.2336508",
-          "feed_date": "2024-04-11T08:51:09Z",
-          "raw_date": "2024-04-11T08:51:09Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
           "title": "The ECB’s Monetary Policy Review: A Post-Keynesian Twist?",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2024.2326083?af=R",
           "identifier": "doi:10.1080/09538259.2024.2326083",
@@ -3808,7 +3538,7 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "rss_url": "https://rss.sciencedirect.com/publication/science/0954349X",
-      "checked_utc": "2026-11-10T15:37:14.863814+00:00",
+      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/rss+xml",

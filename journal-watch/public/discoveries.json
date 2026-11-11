@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-10T15:37:14.863814Z",
-  "total_historical_articles": 473,
-  "new_this_run": 0,
+  "generated_utc": "2026-11-11T15:16:04.078830Z",
+  "total_historical_articles": 475,
+  "new_this_run": 2,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
     "Economic Systems Research": 0,
     "International Journal of Political Economy": 0,
     "International Review of Applied Economics": 0,
-    "New Political Economy": 0,
+    "New Political Economy": 2,
     "Review of Political Economy": 0,
     "Structural Change and Economic Dynamics": 0
   },
@@ -42,7 +42,7 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "new": 0
+      "new": 2
     },
     {
       "journal": "Review of Political Economy",
@@ -57,6 +57,24 @@
   ],
   "recent_window_days": 45,
   "recent_discoveries": [
+    {
+      "id": "4da71bd23872e0e60599bb88",
+      "journal": "New Political Economy",
+      "title": "The emperor has no batteries: internal protection and Europe's uneven bid for electromobility",
+      "doi": "10.1080/13563467.2026.2751111",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751111?af=R",
+      "feed_date": "2026-11-10T12:03:36Z",
+      "first_seen_utc": "2026-11-11T15:16:04.078830Z"
+    },
+    {
+      "id": "d0868201b7294c5e6a26c7ea",
+      "journal": "New Political Economy",
+      "title": "The other China shock: EU critical and strategic minerals dependency in comparative-historical perspective",
+      "doi": "10.1080/13563467.2026.2751105",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751105?af=R",
+      "feed_date": "2026-11-10T03:26:42Z",
+      "first_seen_utc": "2026-11-11T15:16:04.078830Z"
+    },
     {
       "id": "6b7949b330119b75c0c2ccb9",
       "journal": "Cambridge Journal of Economics",
