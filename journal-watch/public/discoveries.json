@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-11T15:16:04.078830Z",
-  "total_historical_articles": 475,
-  "new_this_run": 2,
+  "generated_utc": "2026-11-12T15:59:56.760615Z",
+  "total_historical_articles": 478,
+  "new_this_run": 3,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
     "Economic Systems Research": 0,
-    "International Journal of Political Economy": 0,
+    "International Journal of Political Economy": 1,
     "International Review of Applied Economics": 0,
-    "New Political Economy": 2,
-    "Review of Political Economy": 0,
+    "New Political Economy": 0,
+    "Review of Political Economy": 2,
     "Structural Change and Economic Dynamics": 0
   },
   "feeds": [
@@ -32,7 +32,7 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "new": 0
+      "new": 1
     },
     {
       "journal": "International Review of Applied Economics",
@@ -42,12 +42,12 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "new": 2
+      "new": 0
     },
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "new": 0
+      "new": 2
     },
     {
       "journal": "Structural Change and Economic Dynamics",
@@ -57,6 +57,33 @@
   ],
   "recent_window_days": 45,
   "recent_discoveries": [
+    {
+      "id": "2022eaf92d8802924b7df28b",
+      "journal": "International Journal of Political Economy",
+      "title": "Sub-Regional Development Banks in Sub-Saharan Africa: Exploring New Forms of Capitalization and Leveraging",
+      "doi": "10.1080/08911916.2026.2751998",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2751998?af=R",
+      "feed_date": "2026-11-12T02:34:50Z",
+      "first_seen_utc": "2026-11-12T15:59:56.760615Z"
+    },
+    {
+      "id": "89e0f8f81313b898ee8c6b9d",
+      "journal": "Review of Political Economy",
+      "title": "Growth models and structural change: regional varieties and socioeconomic impacts",
+      "doi": "10.1080/09538259.2026.2759152",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2759152?af=R",
+      "feed_date": "2026-11-11T04:25:55Z",
+      "first_seen_utc": "2026-11-12T15:59:56.760615Z"
+    },
+    {
+      "id": "cd215ccc6b45d7e7f991557e",
+      "journal": "Review of Political Economy",
+      "title": "The End (and Re-emergence) of Laissez Faire",
+      "doi": "10.1080/09538259.2026.2742995",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2742995?af=R",
+      "feed_date": "2026-11-11T04:25:11Z",
+      "first_seen_utc": "2026-11-12T15:59:56.760615Z"
+    },
     {
       "id": "4da71bd23872e0e60599bb88",
       "journal": "New Political Economy",

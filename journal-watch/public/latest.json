@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-11T15:16:04.078830+00:00",
+  "generated_utc": "2026-11-12T15:59:56.760615+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "rss_url": "https://academic.oup.com/rss/site_5437/3298.xml",
-      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
+      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -112,7 +112,7 @@
     {
       "journal": "Contributions to Political Economy",
       "rss_url": "https://academic.oup.com/rss/site_5445/3306.xml",
-      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
+      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -287,7 +287,7 @@
     {
       "journal": "Economic Systems Research",
       "rss_url": "https://www.tandfonline.com/feed/rss/cesr20",
-      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
+      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -606,14 +606,23 @@
     {
       "journal": "International Journal of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/mijp20",
-      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
+      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 15,
-      "latest_feed_date": "2026-11-04T10:05:54Z",
+      "items_count": 16,
+      "latest_feed_date": "2026-11-12T02:34:50Z",
       "possibly_stale": false,
       "items": [
+        {
+          "title": "Sub-Regional Development Banks in Sub-Saharan Africa: Exploring New Forms of Capitalization and Leveraging",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2751998?af=R",
+          "identifier": "doi:10.1080/08911916.2026.2751998",
+          "doi": "10.1080/08911916.2026.2751998",
+          "feed_date": "2026-11-12T02:34:50Z",
+          "raw_date": "2026-11-12T02:34:50Z",
+          "summary_excerpt": ". <br/>"
+        },
         {
           "title": "Beyond the European Chips Act: Mobilizing Public Banks to Solve Europe’s Semiconductor Supply Chain Paradox",
           "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2743824?af=R",
@@ -754,7 +763,7 @@
     {
       "journal": "International Review of Applied Economics",
       "rss_url": "https://www.tandfonline.com/feed/rss/cira20",
-      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
+      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -1316,7 +1325,7 @@
     {
       "journal": "New Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/cnpe20",
-      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
+      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -2283,14 +2292,32 @@
     {
       "journal": "Review of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/crpe20",
-      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
+      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 138,
-      "latest_feed_date": "2026-11-04T02:08:38Z",
+      "items_count": 140,
+      "latest_feed_date": "2026-11-11T04:25:55Z",
       "possibly_stale": false,
       "items": [
+        {
+          "title": "Growth models and structural change: regional varieties and socioeconomic impacts",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2759152?af=R",
+          "identifier": "doi:10.1080/09538259.2026.2759152",
+          "doi": "10.1080/09538259.2026.2759152",
+          "feed_date": "2026-11-11T04:25:55Z",
+          "raw_date": "2026-11-11T04:25:55Z",
+          "summary_excerpt": ". <br/>"
+        },
+        {
+          "title": "The End (and Re-emergence) of Laissez Faire",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2742995?af=R",
+          "identifier": "doi:10.1080/09538259.2026.2742995",
+          "doi": "10.1080/09538259.2026.2742995",
+          "feed_date": "2026-11-11T04:25:11Z",
+          "raw_date": "2026-11-11T04:25:11Z",
+          "summary_excerpt": ". <br/>"
+        },
         {
           "title": "Wages, Productivity, and the Limits of Traditional Growth Policies: A Critique of Ruiz-Nápoles’s ‘Challenges for Mexico’s Growth Policy’",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2744302?af=R",
@@ -3538,7 +3565,7 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "rss_url": "https://rss.sciencedirect.com/publication/science/0954349X",
-      "checked_utc": "2026-11-11T15:16:04.078830+00:00",
+      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/rss+xml",
