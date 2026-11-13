@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-12T15:59:56.760615+00:00",
+  "generated_utc": "2026-11-13T15:25:38.727365+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "rss_url": "https://academic.oup.com/rss/site_5437/3298.xml",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -112,7 +112,7 @@
     {
       "journal": "Contributions to Political Economy",
       "rss_url": "https://academic.oup.com/rss/site_5445/3306.xml",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -287,7 +287,7 @@
     {
       "journal": "Economic Systems Research",
       "rss_url": "https://www.tandfonline.com/feed/rss/cesr20",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -606,7 +606,7 @@
     {
       "journal": "International Journal of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/mijp20",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -763,7 +763,7 @@
     {
       "journal": "International Review of Applied Economics",
       "rss_url": "https://www.tandfonline.com/feed/rss/cira20",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -1325,14 +1325,23 @@
     {
       "journal": "New Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/cnpe20",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 106,
-      "latest_feed_date": "2026-11-10T12:03:36Z",
+      "items_count": 107,
+      "latest_feed_date": "2026-11-12T07:17:52Z",
       "possibly_stale": false,
       "items": [
+        {
+          "title": "After mass politics: the logic of structural crisis in contemporary capitalism",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2761463?af=R",
+          "identifier": "doi:10.1080/13563467.2026.2761463",
+          "doi": "10.1080/13563467.2026.2761463",
+          "feed_date": "2026-11-12T07:17:52Z",
+          "raw_date": "2026-11-12T07:17:52Z",
+          "summary_excerpt": ". <br/>"
+        },
         {
           "title": "The emperor has no batteries: internal protection and Europe's uneven bid for electromobility",
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751111?af=R",
@@ -2292,7 +2301,7 @@
     {
       "journal": "Review of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/crpe20",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -3565,7 +3574,7 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "rss_url": "https://rss.sciencedirect.com/publication/science/0954349X",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/rss+xml",
@@ -3581,6 +3590,15 @@
           "feed_date": null,
           "raw_date": "",
           "summary_excerpt": "<p>Publication date: December 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 81</p><p>Author(s): Marc Morgan, Pedro H.G.F Souza</p>"
+        },
+        {
+          "title": "An alternative conceptual framework of the proximate sources of growth accelerations in sub-Saharan African countries",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001748?dgcid=rss_sd_all",
+          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001748",
+          "doi": null,
+          "feed_date": null,
+          "raw_date": "",
+          "summary_excerpt": "<p>Publication date: December 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 81</p><p>Author(s): Kevin S. Nell, Maria M. De Mello</p>"
         },
         {
           "title": "Structural decoupling in global value chains: Divergent dynamics of fragility and amplification",
@@ -3851,15 +3869,6 @@
           "feed_date": null,
           "raw_date": "",
           "summary_excerpt": "<p>Publication date: Available online 12 October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Barbara Ermini, Silvia Mattiozzi, Raffaella Santolini</p>"
-        },
-        {
-          "title": "AN ALTERNATIVE CONCEPTUAL FRAMEWORK OF THE PROXIMATE SOURCES OF GROWTH ACCELERATIONS IN SUB-SAHARAN AFRICAN COUNTRIES",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001748?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001748",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: Available online 2 October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Kevin S. Nell, Maria M. De Mello</p>"
         },
         {
           "title": "The impact of fiscal austerity measures on inequality: a study of OECD countries",

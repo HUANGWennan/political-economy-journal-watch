@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-12T15:59:56.760615+00:00",
+  "generated_utc": "2026-11-13T15:25:38.727365+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "status": "ok",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "latest_feed_date": "2026-09-23T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 10,
@@ -69,7 +69,7 @@
     {
       "journal": "Contributions to Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "latest_feed_date": "2026-08-18T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 18,
@@ -87,7 +87,7 @@
     {
       "journal": "Economic Systems Research",
       "status": "ok",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "latest_feed_date": "2026-10-23T12:32:35Z",
       "possibly_stale": true,
       "total_feed_items": 34,
@@ -153,7 +153,7 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "latest_feed_date": "2026-11-12T02:34:50Z",
       "possibly_stale": false,
       "total_feed_items": 16,
@@ -261,7 +261,7 @@
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "latest_feed_date": "2026-11-02T01:57:31Z",
       "possibly_stale": false,
       "total_feed_items": 61,
@@ -333,11 +333,17 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
-      "latest_feed_date": "2026-11-10T12:03:36Z",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "latest_feed_date": "2026-11-12T07:17:52Z",
       "possibly_stale": false,
-      "total_feed_items": 106,
+      "total_feed_items": 107,
       "items": [
+        {
+          "title": "After mass politics: the logic of structural crisis in contemporary capitalism",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2761463?af=R",
+          "doi": "10.1080/13563467.2026.2761463",
+          "feed_date": "2026-11-12T07:17:52Z"
+        },
         {
           "title": "The emperor has no batteries: internal protection and Europe's uneven bid for electromobility",
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751111?af=R",
@@ -571,12 +577,6 @@
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2685193?af=R",
           "doi": "10.1080/13563467.2026.2685193",
           "feed_date": "2026-08-19T11:58:11Z"
-        },
-        {
-          "title": "Migration without leaving: how Chinese elites navigate grey zones for second passports and residencies",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2716631?af=R",
-          "doi": "10.1080/13563467.2026.2716631",
-          "feed_date": "2026-08-19T04:31:01Z"
         }
       ],
       "filtered_or_capped": true,
@@ -585,7 +585,7 @@
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "latest_feed_date": "2026-11-11T04:25:55Z",
       "possibly_stale": false,
       "total_feed_items": 140,
@@ -813,7 +813,7 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "checked_utc": "2026-11-12T15:59:56.760615+00:00",
+      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
       "latest_feed_date": null,
       "possibly_stale": true,
       "total_feed_items": 61,
@@ -821,6 +821,12 @@
         {
           "title": "Corrigendum to “The Kuznets curse: Rethinking inequality and development through political conflict in Brazil” [Structural Change and Economic Dynamics 80 (2026) 332-351]",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001827?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
+        {
+          "title": "An alternative conceptual framework of the proximate sources of growth accelerations in sub-Saharan African countries",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001748?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         },
@@ -1001,12 +1007,6 @@
         {
           "title": "Digital Innovation and NextGenerationEU: Spatial Patterns in Italian Local Government Performance",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001761?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "AN ALTERNATIVE CONCEPTUAL FRAMEWORK OF THE PROXIMATE SOURCES OF GROWTH ACCELERATIONS IN SUB-SAHARAN AFRICAN COUNTRIES",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001748?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         },

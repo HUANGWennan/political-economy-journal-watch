@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-12T15:59:56.760615Z",
-  "total_historical_articles": 478,
-  "new_this_run": 3,
+  "generated_utc": "2026-11-13T15:25:38.727365Z",
+  "total_historical_articles": 479,
+  "new_this_run": 1,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
     "Economic Systems Research": 0,
-    "International Journal of Political Economy": 1,
+    "International Journal of Political Economy": 0,
     "International Review of Applied Economics": 0,
-    "New Political Economy": 0,
-    "Review of Political Economy": 2,
+    "New Political Economy": 1,
+    "Review of Political Economy": 0,
     "Structural Change and Economic Dynamics": 0
   },
   "feeds": [
@@ -32,7 +32,7 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "new": 1
+      "new": 0
     },
     {
       "journal": "International Review of Applied Economics",
@@ -42,12 +42,12 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "new": 0
+      "new": 1
     },
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "new": 2
+      "new": 0
     },
     {
       "journal": "Structural Change and Economic Dynamics",
@@ -57,6 +57,15 @@
   ],
   "recent_window_days": 45,
   "recent_discoveries": [
+    {
+      "id": "8a88731acd0d569fde56400f",
+      "journal": "New Political Economy",
+      "title": "After mass politics: the logic of structural crisis in contemporary capitalism",
+      "doi": "10.1080/13563467.2026.2761463",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2761463?af=R",
+      "feed_date": "2026-11-12T07:17:52Z",
+      "first_seen_utc": "2026-11-13T15:25:38.727365Z"
+    },
     {
       "id": "2022eaf92d8802924b7df28b",
       "journal": "International Journal of Political Economy",
@@ -4092,7 +4101,7 @@
     {
       "id": "e9ef78b8f015c18bcc55c290",
       "journal": "Structural Change and Economic Dynamics",
-      "title": "AN ALTERNATIVE CONCEPTUAL FRAMEWORK OF THE PROXIMATE SOURCES OF GROWTH ACCELERATIONS IN SUB-SAHARAN AFRICAN COUNTRIES",
+      "title": "An alternative conceptual framework of the proximate sources of growth accelerations in sub-Saharan African countries",
       "doi": null,
       "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001748?dgcid=rss_sd_all",
       "feed_date": null,
