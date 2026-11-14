@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-13T15:25:38.727365Z",
-  "total_historical_articles": 479,
-  "new_this_run": 1,
+  "generated_utc": "2026-11-14T14:11:11.121408Z",
+  "total_historical_articles": 481,
+  "new_this_run": 2,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
     "Economic Systems Research": 0,
     "International Journal of Political Economy": 0,
     "International Review of Applied Economics": 0,
-    "New Political Economy": 1,
+    "New Political Economy": 0,
     "Review of Political Economy": 0,
-    "Structural Change and Economic Dynamics": 0
+    "Structural Change and Economic Dynamics": 2
   },
   "feeds": [
     {
@@ -42,7 +42,7 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "new": 1
+      "new": 0
     },
     {
       "journal": "Review of Political Economy",
@@ -52,11 +52,29 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "new": 0
+      "new": 2
     }
   ],
   "recent_window_days": 45,
   "recent_discoveries": [
+    {
+      "id": "f171623421ca6595f0cfaf8f",
+      "journal": "Structural Change and Economic Dynamics",
+      "title": "The income effects of currency devaluation: Franc zone economies and their post-devaluation performance in the global hierarchy",
+      "doi": null,
+      "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001888?dgcid=rss_sd_all",
+      "feed_date": null,
+      "first_seen_utc": "2026-11-14T14:11:11.121408Z"
+    },
+    {
+      "id": "a595024aac625e97cd6cadb1",
+      "journal": "Structural Change and Economic Dynamics",
+      "title": "Does Vertical Common Ownership Affect Credit Spreads of Upstream and Downstream Firms?",
+      "doi": null,
+      "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001918?dgcid=rss_sd_all",
+      "feed_date": null,
+      "first_seen_utc": "2026-11-14T14:11:11.121408Z"
+    },
     {
       "id": "8a88731acd0d569fde56400f",
       "journal": "New Political Economy",

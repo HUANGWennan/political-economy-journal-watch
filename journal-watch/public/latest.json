@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-13T15:25:38.727365+00:00",
+  "generated_utc": "2026-11-14T14:11:11.121408+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "rss_url": "https://academic.oup.com/rss/site_5437/3298.xml",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -112,7 +112,7 @@
     {
       "journal": "Contributions to Political Economy",
       "rss_url": "https://academic.oup.com/rss/site_5445/3306.xml",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -287,7 +287,7 @@
     {
       "journal": "Economic Systems Research",
       "rss_url": "https://www.tandfonline.com/feed/rss/cesr20",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -606,7 +606,7 @@
     {
       "journal": "International Journal of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/mijp20",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -763,7 +763,7 @@
     {
       "journal": "International Review of Applied Economics",
       "rss_url": "https://www.tandfonline.com/feed/rss/cira20",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -1325,7 +1325,7 @@
     {
       "journal": "New Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/cnpe20",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -2301,7 +2301,7 @@
     {
       "journal": "Review of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/crpe20",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -3574,11 +3574,11 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "rss_url": "https://rss.sciencedirect.com/publication/science/0954349X",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/rss+xml",
-      "items_count": 61,
+      "items_count": 63,
       "latest_feed_date": null,
       "possibly_stale": true,
       "items": [
@@ -3860,6 +3860,24 @@
           "feed_date": null,
           "raw_date": "",
           "summary_excerpt": "<p>Publication date: December 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 81</p><p>Author(s): Hyun Woong Park</p>"
+        },
+        {
+          "title": "The income effects of currency devaluation: Franc zone economies and their post-devaluation performance in the global hierarchy",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001888?dgcid=rss_sd_all",
+          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001888",
+          "doi": null,
+          "feed_date": null,
+          "raw_date": "",
+          "summary_excerpt": "<p>Publication date: Available online 14 November 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Jianbo Gao, Xin Hou, Fanglei Wang</p>"
+        },
+        {
+          "title": "Does Vertical Common Ownership Affect Credit Spreads of Upstream and Downstream Firms?",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001918?dgcid=rss_sd_all",
+          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001918",
+          "doi": null,
+          "feed_date": null,
+          "raw_date": "",
+          "summary_excerpt": "<p>Publication date: Available online 13 November 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Lei Wang, Huilin Cui, Kuan Li</p>"
         },
         {
           "title": "Digital Innovation and NextGenerationEU: Spatial Patterns in Italian Local Government Performance",

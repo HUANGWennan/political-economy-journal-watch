@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-13T15:25:38.727365+00:00",
+  "generated_utc": "2026-11-14T14:11:11.121408+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "status": "ok",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "latest_feed_date": "2026-09-23T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 10,
@@ -69,7 +69,7 @@
     {
       "journal": "Contributions to Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "latest_feed_date": "2026-08-18T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 18,
@@ -87,7 +87,7 @@
     {
       "journal": "Economic Systems Research",
       "status": "ok",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "latest_feed_date": "2026-10-23T12:32:35Z",
       "possibly_stale": true,
       "total_feed_items": 34,
@@ -153,7 +153,7 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "latest_feed_date": "2026-11-12T02:34:50Z",
       "possibly_stale": false,
       "total_feed_items": 16,
@@ -261,7 +261,7 @@
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "latest_feed_date": "2026-11-02T01:57:31Z",
       "possibly_stale": false,
       "total_feed_items": 61,
@@ -333,7 +333,7 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "latest_feed_date": "2026-11-12T07:17:52Z",
       "possibly_stale": false,
       "total_feed_items": 107,
@@ -585,7 +585,7 @@
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "latest_feed_date": "2026-11-11T04:25:55Z",
       "possibly_stale": false,
       "total_feed_items": 140,
@@ -813,10 +813,10 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "checked_utc": "2026-11-13T15:25:38.727365+00:00",
+      "checked_utc": "2026-11-14T14:11:11.121408+00:00",
       "latest_feed_date": null,
       "possibly_stale": true,
-      "total_feed_items": 61,
+      "total_feed_items": 63,
       "items": [
         {
           "title": "Corrigendum to “The Kuznets curse: Rethinking inequality and development through political conflict in Brazil” [Structural Change and Economic Dynamics 80 (2026) 332-351]",
@@ -1005,6 +1005,18 @@
           "feed_date": null
         },
         {
+          "title": "The income effects of currency devaluation: Franc zone economies and their post-devaluation performance in the global hierarchy",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001888?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
+        {
+          "title": "Does Vertical Common Ownership Affect Credit Spreads of Upstream and Downstream Firms?",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001918?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
+        {
           "title": "Digital Innovation and NextGenerationEU: Spatial Patterns in Italian Local Government Performance",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001761?dgcid=rss_sd_all",
           "doi": null,
@@ -1043,18 +1055,6 @@
         {
           "title": "The Kuznets curse: Rethinking inequality and development through political conflict in Brazil",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001335?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "The green divide: Analyzing how environmental decentralization shapes corporate ESG performance in China",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001359?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "Skill-biased employment and the stringency of environmental regulations in European Countries",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001372?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         }
