@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-14T14:11:11.121408Z",
-  "total_historical_articles": 481,
-  "new_this_run": 2,
+  "generated_utc": "2026-11-15T14:46:44.707263Z",
+  "total_historical_articles": 485,
+  "new_this_run": 4,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
@@ -11,7 +11,7 @@
     "International Review of Applied Economics": 0,
     "New Political Economy": 0,
     "Review of Political Economy": 0,
-    "Structural Change and Economic Dynamics": 2
+    "Structural Change and Economic Dynamics": 4
   },
   "feeds": [
     {
@@ -52,11 +52,47 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "new": 2
+      "new": 4
     }
   ],
   "recent_window_days": 45,
   "recent_discoveries": [
+    {
+      "id": "fa4a54d66c8d17012b7da6cd",
+      "journal": "Structural Change and Economic Dynamics",
+      "title": "Digital knowledge and market power: A firm-level analysis based on complexity theory",
+      "doi": null,
+      "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001943?dgcid=rss_sd_all",
+      "feed_date": null,
+      "first_seen_utc": "2026-11-15T14:46:44.707263Z"
+    },
+    {
+      "id": "c44954510d456dbcf6498f38",
+      "journal": "Structural Change and Economic Dynamics",
+      "title": "A tale of two transitions: Labor market adjustments to the green transition and technological change",
+      "doi": null,
+      "link": "https://www.sciencedirect.com/science/article/pii/S0954349X2600189X?dgcid=rss_sd_all",
+      "feed_date": null,
+      "first_seen_utc": "2026-11-15T14:46:44.707263Z"
+    },
+    {
+      "id": "97af820f6bdae63e3cd1af19",
+      "journal": "Structural Change and Economic Dynamics",
+      "title": "Beyond gravity: Geopolitics and multilayer network dependence in global edible-oil trade",
+      "doi": null,
+      "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001876?dgcid=rss_sd_all",
+      "feed_date": null,
+      "first_seen_utc": "2026-11-15T14:46:44.707263Z"
+    },
+    {
+      "id": "761f6b400f09caad5e9cc293",
+      "journal": "Structural Change and Economic Dynamics",
+      "title": "Climate physical risk exposure and public finance vulnerability",
+      "doi": null,
+      "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001931?dgcid=rss_sd_all",
+      "feed_date": null,
+      "first_seen_utc": "2026-11-15T14:46:44.707263Z"
+    },
     {
       "id": "f171623421ca6595f0cfaf8f",
       "journal": "Structural Change and Economic Dynamics",
