@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-15T14:46:44.707263Z",
-  "total_historical_articles": 485,
-  "new_this_run": 4,
+  "generated_utc": "2026-11-16T17:04:11.861981Z",
+  "total_historical_articles": 486,
+  "new_this_run": 1,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
     "Economic Systems Research": 0,
     "International Journal of Political Economy": 0,
     "International Review of Applied Economics": 0,
-    "New Political Economy": 0,
+    "New Political Economy": 1,
     "Review of Political Economy": 0,
-    "Structural Change and Economic Dynamics": 4
+    "Structural Change and Economic Dynamics": 0
   },
   "feeds": [
     {
@@ -42,7 +42,7 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "new": 0
+      "new": 1
     },
     {
       "journal": "Review of Political Economy",
@@ -52,11 +52,20 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "new": 4
+      "new": 0
     }
   ],
   "recent_window_days": 45,
   "recent_discoveries": [
+    {
+      "id": "a84ccb7b5c2289b680aaad2a",
+      "journal": "New Political Economy",
+      "title": "Illiberal gateways and hubs: Chinese push and European pull in Hungary and Serbia",
+      "doi": "10.1080/13563467.2026.2751109",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751109?af=R",
+      "feed_date": "2026-11-15T05:27:38Z",
+      "first_seen_utc": "2026-11-16T17:04:11.861981Z"
+    },
     {
       "id": "fa4a54d66c8d17012b7da6cd",
       "journal": "Structural Change and Economic Dynamics",
