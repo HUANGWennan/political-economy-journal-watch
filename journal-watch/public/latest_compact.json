@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-16T17:04:11.861981+00:00",
+  "generated_utc": "2026-11-17T16:55:22.367283+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "status": "ok",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "latest_feed_date": "2026-09-23T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 10,
@@ -69,7 +69,7 @@
     {
       "journal": "Contributions to Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "latest_feed_date": "2026-08-18T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 18,
@@ -80,7 +80,7 @@
     {
       "journal": "Economic Systems Research",
       "status": "ok",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "latest_feed_date": "2026-10-23T12:32:35Z",
       "possibly_stale": true,
       "total_feed_items": 34,
@@ -146,7 +146,7 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "latest_feed_date": "2026-11-12T02:34:50Z",
       "possibly_stale": false,
       "total_feed_items": 16,
@@ -254,9 +254,9 @@
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "latest_feed_date": "2026-11-02T01:57:31Z",
-      "possibly_stale": false,
+      "possibly_stale": true,
       "total_feed_items": 61,
       "items": [
         {
@@ -326,7 +326,7 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "latest_feed_date": "2026-11-15T05:27:38Z",
       "possibly_stale": false,
       "total_feed_items": 108,
@@ -572,13 +572,13 @@
           "feed_date": "2026-08-24T10:18:52Z"
         }
       ],
-      "filtered_or_capped": true,
+      "filtered_or_capped": false,
       "error": null
     },
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "latest_feed_date": "2026-11-11T04:25:55Z",
       "possibly_stale": false,
       "total_feed_items": 140,
@@ -792,12 +792,6 @@
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2720683?af=R",
           "doi": "10.1080/09538259.2026.2720683",
           "feed_date": "2026-08-26T08:51:10Z"
-        },
-        {
-          "title": "Impact of Public Spending by Level of Government on Employment and Imports: Evidence from Argentina, 2004–2019.",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2713467?af=R",
-          "doi": "10.1080/09538259.2026.2713467",
-          "feed_date": "2026-08-19T11:02:00Z"
         }
       ],
       "filtered_or_capped": false,
@@ -806,14 +800,20 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "latest_feed_date": null,
       "possibly_stale": true,
-      "total_feed_items": 67,
+      "total_feed_items": 68,
       "items": [
         {
           "title": "Corrigendum to “The Kuznets curse: Rethinking inequality and development through political conflict in Brazil” [Structural Change and Economic Dynamics 80 (2026) 332-351]",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001827?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
+        {
+          "title": "The income effects of currency devaluation: Franc zone economies and their post-devaluation performance in the global hierarchy",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001888?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         },
@@ -998,6 +998,12 @@
           "feed_date": null
         },
         {
+          "title": "Industry relatedness and technological diversification across patent applicants: evidence from Brazil",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001955?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
+        {
           "title": "Digital knowledge and market power: A firm-level analysis based on complexity theory",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001943?dgcid=rss_sd_all",
           "doi": null,
@@ -1006,12 +1012,6 @@
         {
           "title": "A tale of two transitions: Labor market adjustments to the green transition and technological change",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X2600189X?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "The income effects of currency devaluation: Franc zone economies and their post-devaluation performance in the global hierarchy",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001888?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         },
@@ -1042,12 +1042,6 @@
         {
           "title": "The impact of fiscal austerity measures on inequality: a study of OECD countries",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X2600130X?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "Measuring green jobs: Evidence from task, skill, and occupational data",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001311?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-16T17:04:11.861981Z",
-  "total_historical_articles": 486,
+  "generated_utc": "2026-11-17T16:55:22.367283Z",
+  "total_historical_articles": 487,
   "new_this_run": 1,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
@@ -9,9 +9,9 @@
     "Economic Systems Research": 0,
     "International Journal of Political Economy": 0,
     "International Review of Applied Economics": 0,
-    "New Political Economy": 1,
+    "New Political Economy": 0,
     "Review of Political Economy": 0,
-    "Structural Change and Economic Dynamics": 0
+    "Structural Change and Economic Dynamics": 1
   },
   "feeds": [
     {
@@ -42,7 +42,7 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "new": 1
+      "new": 0
     },
     {
       "journal": "Review of Political Economy",
@@ -52,11 +52,20 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "new": 0
+      "new": 1
     }
   ],
   "recent_window_days": 45,
   "recent_discoveries": [
+    {
+      "id": "71bc692da99bc22b4afa7ef9",
+      "journal": "Structural Change and Economic Dynamics",
+      "title": "Industry relatedness and technological diversification across patent applicants: evidence from Brazil",
+      "doi": null,
+      "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001955?dgcid=rss_sd_all",
+      "feed_date": null,
+      "first_seen_utc": "2026-11-17T16:55:22.367283Z"
+    },
     {
       "id": "a84ccb7b5c2289b680aaad2a",
       "journal": "New Political Economy",

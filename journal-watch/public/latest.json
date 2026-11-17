@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-16T17:04:11.861981+00:00",
+  "generated_utc": "2026-11-17T16:55:22.367283+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "rss_url": "https://academic.oup.com/rss/site_5437/3298.xml",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -112,7 +112,7 @@
     {
       "journal": "Contributions to Political Economy",
       "rss_url": "https://academic.oup.com/rss/site_5445/3306.xml",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -287,7 +287,7 @@
     {
       "journal": "Economic Systems Research",
       "rss_url": "https://www.tandfonline.com/feed/rss/cesr20",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -606,7 +606,7 @@
     {
       "journal": "International Journal of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/mijp20",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -763,13 +763,13 @@
     {
       "journal": "International Review of Applied Economics",
       "rss_url": "https://www.tandfonline.com/feed/rss/cira20",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
       "items_count": 61,
       "latest_feed_date": "2026-11-02T01:57:31Z",
-      "possibly_stale": false,
+      "possibly_stale": true,
       "items": [
         {
           "title": "How large is the provincial transfer multiplier for consumption: evidence from Canada",
@@ -1325,7 +1325,7 @@
     {
       "journal": "New Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/cnpe20",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -2310,7 +2310,7 @@
     {
       "journal": "Review of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/crpe20",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -3583,11 +3583,11 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "rss_url": "https://rss.sciencedirect.com/publication/science/0954349X",
-      "checked_utc": "2026-11-16T17:04:11.861981+00:00",
+      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/rss+xml",
-      "items_count": 67,
+      "items_count": 68,
       "latest_feed_date": null,
       "possibly_stale": true,
       "items": [
@@ -3599,6 +3599,15 @@
           "feed_date": null,
           "raw_date": "",
           "summary_excerpt": "<p>Publication date: December 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 81</p><p>Author(s): Marc Morgan, Pedro H.G.F Souza</p>"
+        },
+        {
+          "title": "The income effects of currency devaluation: Franc zone economies and their post-devaluation performance in the global hierarchy",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001888?dgcid=rss_sd_all",
+          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001888",
+          "doi": null,
+          "feed_date": null,
+          "raw_date": "",
+          "summary_excerpt": "<p>Publication date: December 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 81</p><p>Author(s): Jianbo Gao, Xin Hou, Fanglei Wang</p>"
         },
         {
           "title": "An alternative conceptual framework of the proximate sources of growth accelerations in sub-Saharan African countries",
@@ -3871,6 +3880,15 @@
           "summary_excerpt": "<p>Publication date: December 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 81</p><p>Author(s): Hyun Woong Park</p>"
         },
         {
+          "title": "Industry relatedness and technological diversification across patent applicants: evidence from Brazil",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001955?dgcid=rss_sd_all",
+          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001955",
+          "doi": null,
+          "feed_date": null,
+          "raw_date": "",
+          "summary_excerpt": "<p>Publication date: Available online 16 November 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Danielle Carvalho, João P. Romero</p>"
+        },
+        {
           "title": "Digital knowledge and market power: A firm-level analysis based on complexity theory",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001943?dgcid=rss_sd_all",
           "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001943",
@@ -3887,15 +3905,6 @@
           "feed_date": null,
           "raw_date": "",
           "summary_excerpt": "<p>Publication date: Available online 14 November 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Ron Diris, Egbert Jongen, Larissa de Lima Almeida</p>"
-        },
-        {
-          "title": "The income effects of currency devaluation: Franc zone economies and their post-devaluation performance in the global hierarchy",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001888?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001888",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: Available online 14 November 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Jianbo Gao, Xin Hou, Fanglei Wang</p>"
         },
         {
           "title": "Beyond gravity: Geopolitics and multilayer network dependence in global edible-oil trade",
