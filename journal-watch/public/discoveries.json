@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-17T16:55:22.367283Z",
-  "total_historical_articles": 487,
-  "new_this_run": 1,
+  "generated_utc": "2026-11-18T16:28:54.754299Z",
+  "total_historical_articles": 495,
+  "new_this_run": 8,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
     "Economic Systems Research": 0,
     "International Journal of Political Economy": 0,
     "International Review of Applied Economics": 0,
-    "New Political Economy": 0,
-    "Review of Political Economy": 0,
-    "Structural Change and Economic Dynamics": 1
+    "New Political Economy": 2,
+    "Review of Political Economy": 6,
+    "Structural Change and Economic Dynamics": 0
   },
   "feeds": [
     {
@@ -42,21 +42,93 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "new": 0
+      "new": 2
     },
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "new": 0
+      "new": 6
     },
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "new": 1
+      "new": 0
     }
   ],
   "recent_window_days": 45,
   "recent_discoveries": [
+    {
+      "id": "36ed46841c1bcb06a29b2178",
+      "journal": "New Political Economy",
+      "title": "Regional green growth coalitions and the eco-social-growth trilemma: the case of the automotive industry in West Sweden",
+      "doi": "10.1080/13563467.2026.2761460",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2761460?af=R",
+      "feed_date": "2026-11-17T06:14:43Z",
+      "first_seen_utc": "2026-11-18T16:28:54.754299Z"
+    },
+    {
+      "id": "29a9852922790677db1d1ddb",
+      "journal": "New Political Economy",
+      "title": "Private global finance and climate governance: de-risking, assetized vulnerability, and domination in the Global South",
+      "doi": "10.1080/13563467.2026.2759592",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2759592?af=R",
+      "feed_date": "2026-11-17T06:09:15Z",
+      "first_seen_utc": "2026-11-18T16:28:54.754299Z"
+    },
+    {
+      "id": "122f656679b3e54d8502a2df",
+      "journal": "Review of Political Economy",
+      "title": "Public Purpose, Private Pipelines: The British Business Bank and the London-Centred Geography of Credit",
+      "doi": "10.1080/09538259.2026.2761014",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2761014?af=R",
+      "feed_date": "2026-11-18T10:24:04Z",
+      "first_seen_utc": "2026-11-18T16:28:54.754299Z"
+    },
+    {
+      "id": "e92f993ebf581488f24da920",
+      "journal": "Review of Political Economy",
+      "title": "Fictions of Monetary Stability: Sterilization, Fiscal Costs, and the Real Function of the Bank of Mexico (2000–2024)",
+      "doi": "10.1080/09538259.2026.2763774",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2763774?af=R",
+      "feed_date": "2026-11-18T10:20:40Z",
+      "first_seen_utc": "2026-11-18T16:28:54.754299Z"
+    },
+    {
+      "id": "44cefa4b70d0f12aefb6e769",
+      "journal": "Review of Political Economy",
+      "title": "Automation, Growth, and Distribution: A Classical View",
+      "doi": "10.1080/09538259.2026.2763776",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2763776?af=R",
+      "feed_date": "2026-11-18T10:19:53Z",
+      "first_seen_utc": "2026-11-18T16:28:54.754299Z"
+    },
+    {
+      "id": "00f1480f298c787f42d67a44",
+      "journal": "Review of Political Economy",
+      "title": "The Economic Problem: Keynes More Than Ever",
+      "doi": "10.1080/09538259.2026.2758512",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2758512?af=R",
+      "feed_date": "2026-11-17T03:32:56Z",
+      "first_seen_utc": "2026-11-18T16:28:54.754299Z"
+    },
+    {
+      "id": "6e92a3f96113e91d1ed7233d",
+      "journal": "Review of Political Economy",
+      "title": "Autonomous Demand and Output Levels in the United States: 1870–2020",
+      "doi": "10.1080/09538259.2026.2757741",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2757741?af=R",
+      "feed_date": "2026-11-17T03:28:01Z",
+      "first_seen_utc": "2026-11-18T16:28:54.754299Z"
+    },
+    {
+      "id": "b75ce429c697c01654b562c2",
+      "journal": "Review of Political Economy",
+      "title": "A Reply to ‘Wages, Productivity, and the Limits of Traditional Growth Policies’ and ‘Financing, Growth and Institutional Capacities of the State,’ Both Critical Comments on ‘Challenge for Mexico’s Growth Policy’",
+      "doi": "10.1080/09538259.2026.2757021",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2757021?af=R",
+      "feed_date": "2026-11-17T03:26:23Z",
+      "first_seen_utc": "2026-11-18T16:28:54.754299Z"
+    },
     {
       "id": "71bc692da99bc22b4afa7ef9",
       "journal": "Structural Change and Economic Dynamics",

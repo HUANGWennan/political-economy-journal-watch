@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-17T16:55:22.367283+00:00",
+  "generated_utc": "2026-11-18T16:28:54.754299+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "status": "ok",
-      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
+      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
       "latest_feed_date": "2026-09-23T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 10,
@@ -69,7 +69,7 @@
     {
       "journal": "Contributions to Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
+      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
       "latest_feed_date": "2026-08-18T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 18,
@@ -80,7 +80,7 @@
     {
       "journal": "Economic Systems Research",
       "status": "ok",
-      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
+      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
       "latest_feed_date": "2026-10-23T12:32:35Z",
       "possibly_stale": true,
       "total_feed_items": 34,
@@ -146,7 +146,7 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
+      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
       "latest_feed_date": "2026-11-12T02:34:50Z",
       "possibly_stale": false,
       "total_feed_items": 16,
@@ -254,7 +254,7 @@
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
+      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
       "latest_feed_date": "2026-11-02T01:57:31Z",
       "possibly_stale": true,
       "total_feed_items": 61,
@@ -326,11 +326,23 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
-      "latest_feed_date": "2026-11-15T05:27:38Z",
+      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "latest_feed_date": "2026-11-17T06:14:43Z",
       "possibly_stale": false,
-      "total_feed_items": 108,
+      "total_feed_items": 110,
       "items": [
+        {
+          "title": "Regional green growth coalitions and the eco-social-growth trilemma: the case of the automotive industry in West Sweden",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2761460?af=R",
+          "doi": "10.1080/13563467.2026.2761460",
+          "feed_date": "2026-11-17T06:14:43Z"
+        },
+        {
+          "title": "Private global finance and climate governance: de-risking, assetized vulnerability, and domination in the Global South",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2759592?af=R",
+          "doi": "10.1080/13563467.2026.2759592",
+          "feed_date": "2026-11-17T06:09:15Z"
+        },
         {
           "title": "Illiberal gateways and hubs: Chinese push and European pull in Hungary and Serbia",
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2751109?af=R",
@@ -558,31 +570,55 @@
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2722392?af=R",
           "doi": "10.1080/13563467.2026.2722392",
           "feed_date": "2026-08-26T05:47:51Z"
-        },
-        {
-          "title": "From colonial extraction to structural adjustment: sectoral policy and unequal exchange in Sub-Saharan Africa",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2722386?af=R",
-          "doi": "10.1080/13563467.2026.2722386",
-          "feed_date": "2026-08-25T10:23:18Z"
-        },
-        {
-          "title": "The promise and limits of industrial statecraft: the US response to China’s EV battery dominance",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2722404?af=R",
-          "doi": "10.1080/13563467.2026.2722404",
-          "feed_date": "2026-08-24T10:18:52Z"
         }
       ],
-      "filtered_or_capped": false,
+      "filtered_or_capped": true,
       "error": null
     },
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
-      "latest_feed_date": "2026-11-11T04:25:55Z",
+      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "latest_feed_date": "2026-11-18T10:24:04Z",
       "possibly_stale": false,
-      "total_feed_items": 140,
+      "total_feed_items": 146,
       "items": [
+        {
+          "title": "Public Purpose, Private Pipelines: The British Business Bank and the London-Centred Geography of Credit",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2761014?af=R",
+          "doi": "10.1080/09538259.2026.2761014",
+          "feed_date": "2026-11-18T10:24:04Z"
+        },
+        {
+          "title": "Fictions of Monetary Stability: Sterilization, Fiscal Costs, and the Real Function of the Bank of Mexico (2000–2024)",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2763774?af=R",
+          "doi": "10.1080/09538259.2026.2763774",
+          "feed_date": "2026-11-18T10:20:40Z"
+        },
+        {
+          "title": "Automation, Growth, and Distribution: A Classical View",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2763776?af=R",
+          "doi": "10.1080/09538259.2026.2763776",
+          "feed_date": "2026-11-18T10:19:53Z"
+        },
+        {
+          "title": "The Economic Problem: Keynes More Than Ever",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2758512?af=R",
+          "doi": "10.1080/09538259.2026.2758512",
+          "feed_date": "2026-11-17T03:32:56Z"
+        },
+        {
+          "title": "Autonomous Demand and Output Levels in the United States: 1870–2020",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2757741?af=R",
+          "doi": "10.1080/09538259.2026.2757741",
+          "feed_date": "2026-11-17T03:28:01Z"
+        },
+        {
+          "title": "A Reply to ‘Wages, Productivity, and the Limits of Traditional Growth Policies’ and ‘Financing, Growth and Institutional Capacities of the State,’ Both Critical Comments on ‘Challenge for Mexico’s Growth Policy’",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2757021?af=R",
+          "doi": "10.1080/09538259.2026.2757021",
+          "feed_date": "2026-11-17T03:26:23Z"
+        },
         {
           "title": "Growth models and structural change: regional varieties and socioeconomic impacts",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2759152?af=R",
@@ -786,21 +822,15 @@
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2723504?af=R",
           "doi": "10.1080/09538259.2026.2723504",
           "feed_date": "2026-09-01T09:45:36Z"
-        },
-        {
-          "title": "Alternative currencies. A critical approach",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2720683?af=R",
-          "doi": "10.1080/09538259.2026.2720683",
-          "feed_date": "2026-08-26T08:51:10Z"
         }
       ],
-      "filtered_or_capped": false,
+      "filtered_or_capped": true,
       "error": null
     },
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "checked_utc": "2026-11-17T16:55:22.367283+00:00",
+      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
       "latest_feed_date": null,
       "possibly_stale": true,
       "total_feed_items": 68,
@@ -808,6 +838,12 @@
         {
           "title": "Corrigendum to “The Kuznets curse: Rethinking inequality and development through political conflict in Brazil” [Structural Change and Economic Dynamics 80 (2026) 332-351]",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001827?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
+        {
+          "title": "Climate physical risk exposure and public finance vulnerability",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001931?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         },
@@ -1018,12 +1054,6 @@
         {
           "title": "Beyond gravity: Geopolitics and multilayer network dependence in global edible-oil trade",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001876?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "Climate physical risk exposure and public finance vulnerability",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001931?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         },
