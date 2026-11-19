@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-18T16:28:54.754299Z",
+  "generated_utc": "2026-11-19T16:36:13.702733Z",
   "total_historical_articles": 495,
-  "new_this_run": 8,
+  "new_this_run": 0,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
     "Economic Systems Research": 0,
     "International Journal of Political Economy": 0,
     "International Review of Applied Economics": 0,
-    "New Political Economy": 2,
-    "Review of Political Economy": 6,
+    "New Political Economy": 0,
+    "Review of Political Economy": 0,
     "Structural Change and Economic Dynamics": 0
   },
   "feeds": [
@@ -42,12 +42,12 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "new": 2
+      "new": 0
     },
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "new": 6
+      "new": 0
     },
     {
       "journal": "Structural Change and Economic Dynamics",
@@ -168,7 +168,7 @@
     {
       "id": "97af820f6bdae63e3cd1af19",
       "journal": "Structural Change and Economic Dynamics",
-      "title": "Beyond gravity: Geopolitics and multilayer network dependence in global edible-oil trade",
+      "title": "Beyond gravity: Geopolitics and multilayer network dependence in global edible oil trade",
       "doi": null,
       "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001876?dgcid=rss_sd_all",
       "feed_date": null,

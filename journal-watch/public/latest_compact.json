@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-18T16:28:54.754299+00:00",
+  "generated_utc": "2026-11-19T16:36:13.702733+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "status": "ok",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "latest_feed_date": "2026-09-23T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 10,
@@ -69,7 +69,7 @@
     {
       "journal": "Contributions to Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "latest_feed_date": "2026-08-18T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 18,
@@ -80,7 +80,7 @@
     {
       "journal": "Economic Systems Research",
       "status": "ok",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "latest_feed_date": "2026-10-23T12:32:35Z",
       "possibly_stale": true,
       "total_feed_items": 34,
@@ -146,7 +146,7 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "latest_feed_date": "2026-11-12T02:34:50Z",
       "possibly_stale": false,
       "total_feed_items": 16,
@@ -254,7 +254,7 @@
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "latest_feed_date": "2026-11-02T01:57:31Z",
       "possibly_stale": true,
       "total_feed_items": 61,
@@ -326,7 +326,7 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "latest_feed_date": "2026-11-17T06:14:43Z",
       "possibly_stale": false,
       "total_feed_items": 110,
@@ -578,7 +578,7 @@
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "latest_feed_date": "2026-11-18T10:24:04Z",
       "possibly_stale": false,
       "total_feed_items": 146,
@@ -830,11 +830,23 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "latest_feed_date": null,
       "possibly_stale": true,
-      "total_feed_items": 68,
+      "total_feed_items": 40,
       "items": [
+        {
+          "title": "A tale of two transitions: Labor market adjustments to the green transition and technological change",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X2600189X?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
+        {
+          "title": "Beyond gravity: Geopolitics and multilayer network dependence in global edible oil trade",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001876?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
         {
           "title": "Corrigendum to “The Kuznets curse: Rethinking inequality and development through political conflict in Brazil” [Structural Change and Economic Dynamics 80 (2026) 332-351]",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001827?dgcid=rss_sd_all",
@@ -1046,18 +1058,6 @@
           "feed_date": null
         },
         {
-          "title": "A tale of two transitions: Labor market adjustments to the green transition and technological change",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X2600189X?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "Beyond gravity: Geopolitics and multilayer network dependence in global edible-oil trade",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001876?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
           "title": "Does Vertical Common Ownership Affect Credit Spreads of Upstream and Downstream Firms?",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001918?dgcid=rss_sd_all",
           "doi": null,
@@ -1070,13 +1070,13 @@
           "feed_date": null
         },
         {
-          "title": "The impact of fiscal austerity measures on inequality: a study of OECD countries",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X2600130X?dgcid=rss_sd_all",
+          "title": "Impacts of Public-Private International Sustainable Finance on Achieving Global Climate Goals Through Innovation and Technology Diffusion",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001694?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         }
       ],
-      "filtered_or_capped": true,
+      "filtered_or_capped": false,
       "error": null
     }
   ]

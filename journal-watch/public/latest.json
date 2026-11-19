@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-18T16:28:54.754299+00:00",
+  "generated_utc": "2026-11-19T16:36:13.702733+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "rss_url": "https://academic.oup.com/rss/site_5437/3298.xml",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -112,7 +112,7 @@
     {
       "journal": "Contributions to Political Economy",
       "rss_url": "https://academic.oup.com/rss/site_5445/3306.xml",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -287,7 +287,7 @@
     {
       "journal": "Economic Systems Research",
       "rss_url": "https://www.tandfonline.com/feed/rss/cesr20",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -606,7 +606,7 @@
     {
       "journal": "International Journal of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/mijp20",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -763,7 +763,7 @@
     {
       "journal": "International Review of Applied Economics",
       "rss_url": "https://www.tandfonline.com/feed/rss/cira20",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -1325,7 +1325,7 @@
     {
       "journal": "New Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/cnpe20",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -2328,7 +2328,7 @@
     {
       "journal": "Review of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/crpe20",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -3655,14 +3655,32 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "rss_url": "https://rss.sciencedirect.com/publication/science/0954349X",
-      "checked_utc": "2026-11-18T16:28:54.754299+00:00",
+      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/rss+xml",
-      "items_count": 68,
+      "items_count": 40,
       "latest_feed_date": null,
       "possibly_stale": true,
       "items": [
+        {
+          "title": "A tale of two transitions: Labor market adjustments to the green transition and technological change",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X2600189X?dgcid=rss_sd_all",
+          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X2600189X",
+          "doi": null,
+          "feed_date": null,
+          "raw_date": "",
+          "summary_excerpt": "<p>Publication date: January 2027</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 82</p><p>Author(s): Ron Diris, Egbert Jongen, Larissa de Lima Almeida</p>"
+        },
+        {
+          "title": "Beyond gravity: Geopolitics and multilayer network dependence in global edible oil trade",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001876?dgcid=rss_sd_all",
+          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001876",
+          "doi": null,
+          "feed_date": null,
+          "raw_date": "",
+          "summary_excerpt": "<p>Publication date: January 2027</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 82</p><p>Author(s): Susmitha Kalli, Munisamy Gopinath</p>"
+        },
         {
           "title": "Corrigendum to “The Kuznets curse: Rethinking inequality and development through political conflict in Brazil” [Structural Change and Economic Dynamics 80 (2026) 332-351]",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001827?dgcid=rss_sd_all",
@@ -3979,24 +3997,6 @@
           "summary_excerpt": "<p>Publication date: Available online 14 November 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Qing Song, Dianfan Yu, Yu Zhang</p>"
         },
         {
-          "title": "A tale of two transitions: Labor market adjustments to the green transition and technological change",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X2600189X?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X2600189X",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: Available online 14 November 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Ron Diris, Egbert Jongen, Larissa de Lima Almeida</p>"
-        },
-        {
-          "title": "Beyond gravity: Geopolitics and multilayer network dependence in global edible-oil trade",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001876?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001876",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: Available online 14 November 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Susmitha Kalli, Munisamy Gopinath</p>"
-        },
-        {
           "title": "Does Vertical Common Ownership Affect Credit Spreads of Upstream and Downstream Firms?",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001918?dgcid=rss_sd_all",
           "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001918",
@@ -4013,258 +4013,6 @@
           "feed_date": null,
           "raw_date": "",
           "summary_excerpt": "<p>Publication date: Available online 12 October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Barbara Ermini, Silvia Mattiozzi, Raffaella Santolini</p>"
-        },
-        {
-          "title": "The impact of fiscal austerity measures on inequality: a study of OECD countries",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X2600130X?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X2600130X",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Marina da Silva Sanches</p>"
-        },
-        {
-          "title": "Measuring green jobs: Evidence from task, skill, and occupational data",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001311?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001311",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Sergey Volozhenin, João Cerejeira, Rita Sousa</p>"
-        },
-        {
-          "title": "Innovation and politics: How the revolution affected the Cuban patent network, 1947‒1976",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001128?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001128",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Sergio Barbosa, Patricio Sáiz, José L. Zofío</p>"
-        },
-        {
-          "title": "Production function estimation for China: A State Space time series analysis considering quality of labor forces",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001438?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001438",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Quanxi Yuan, Yiyao Li, Jingchen Gao</p>"
-        },
-        {
-          "title": "AI and robot automation risk in Japan",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001323?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001323",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Kyoji Fukao, Kenta Ikeuchi, Yoshiaki Nagaya, Cristiano Perugini, Fabrizio Pompei</p>"
-        },
-        {
-          "title": "The Kuznets curse: Rethinking inequality and development through political conflict in Brazil",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001335?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001335",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Marc Morgan, Pedro H.G.F. Souza</p>"
-        },
-        {
-          "title": "The green divide: Analyzing how environmental decentralization shapes corporate ESG performance in China",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001359?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001359",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Jingxia Chai, Haitao Wu, Yu Hao</p>"
-        },
-        {
-          "title": "Skill-biased employment and the stringency of environmental regulations in European Countries",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001372?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001372",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): José Alberto Fuinhas, Asif Javed, Dario Sciulli, Edilio Valentini</p>"
-        },
-        {
-          "title": "Unveiling the dependency structures and determinants of lithium-ion battery critical mineral supply networks",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001402?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001402",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Xiongping Yue, Chao Wang, Huanyu Ren, Xiaoqian Hu, Zhenglong Li, Yong Tan, Liling Huang, Chen Liang</p>"
-        },
-        {
-          "title": "Information technology and labor misallocation: A perspective from search and matching frictions",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001414?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001414",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Xin Jin, Anxing Peng, Yong Li, Yuchen Duan</p>"
-        },
-        {
-          "title": "Struggles pay off. The effect of strikes on workers’ income in Western Europe",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001384?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001384",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Paolo Angelone, Emiliano Brancaccio, Rosaria Rita Canale, Fabiana De Cristofaro</p>"
-        },
-        {
-          "title": "Climate vulnerability and global industrial upgrading: A cross-national panel quantile regression analysis",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001360?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001360",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Lili Zhao, Chuhui Xie, Guozheng Yang, Xiqun (Michael) Chen</p>"
-        },
-        {
-          "title": "A rising tide: revisiting the occupational impact of AI in the generative era",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001396?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001396",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Pablo Casas, Enrique Fernández-Macías, Fernando Martínez-Plumed, Emilia Gómez, Ignacio González-Vázquez, Simone Salotti</p>"
-        },
-        {
-          "title": "Growth and demand in a two-country system with pegged exchange rates: Real, financial and foreign sector implications",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001141?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001141",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Lídia Brochier, Joana David Avritzer</p>"
-        },
-        {
-          "title": "Exporting to high-tech countries versus exporting to low-tech countries: Theory and evidence from firm-level energy efficiency in China",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001347?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001347",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Geng Huang, Xi Lin, Ling-Yun He</p>"
-        },
-        {
-          "title": "Beyond firms and markets: How does the Linux Foundation enable digital commons based open innovation?",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001293?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001293",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Jin Chen, Jiaxue Li, Zhe Han, Liang Mei</p>"
-        },
-        {
-          "title": "Weather anomalies and comparative advantages in emerging and developing economies: A climate vulnerability assessment",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001256?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001256",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Jair N. Ojeda-Joya, Rémi Stellian, Jenny P. Danna-Buitrago</p>"
-        },
-        {
-          "title": "Enhancing exchange rates forecasting: Leveraging long short-term memory with technical indicators",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001281?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001281",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Juan Du, Desheng Wu</p>"
-        },
-        {
-          "title": "Digital innovation drives the synergistic development and structural transformation of energy-economy-ecology-environment systems",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X2600127X?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X2600127X",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Chunhua Xin, Jingxin Li</p>"
-        },
-        {
-          "title": "Innovation ingredients, gross domestic product and productivity: A spatial panel analysis of European regions",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001268?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001268",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Maria Cipollina, Gianluigi De Pascale</p>"
-        },
-        {
-          "title": "Wage share, capacity utilization, and demand regimes in the U.S. economy",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001244?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001244",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Rafael da Costa Umann, Guilherme de Oliveira Worm</p>"
-        },
-        {
-          "title": "Partial and full border carbon adjustment: Corrective effects, distortions, and sectoral trade-offs",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001153?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001153",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Yunlong Pan, Ling Shao, Sanmang Wu, Lin Tang, Wenqing Wang, Xingchang Sa, Zi Wu</p>"
-        },
-        {
-          "title": "The shrinking space of forgiveness: NAWRU endogeneity and the EU fiscal framework",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001098?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001098",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Giovanni Carnazza, Emilio Carnevali, Matteo Sommacal</p>"
-        },
-        {
-          "title": "Interplay of public and private educational spending: Macroeconomic implications",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X2600113X?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X2600113X",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Fernando Loaiza</p>"
-        },
-        {
-          "title": "How does the energy efficiency credit guideline affect employment security in energy-intensive enterprises? Evidence from China",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001232?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001232",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Yue-Jun Zhang, Xue-Jun Zhang</p>"
-        },
-        {
-          "title": "Firm volatility in Vietnam (2009–2018): Unpacking determinants and the interplay between province-level financial development and corruption control",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001116?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001116",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Philipp Struthmann, Yabibal M. Walle, Helmut Herwartz</p>"
-        },
-        {
-          "title": "Environmental Kuznets Curve and green regulation",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001104?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001104",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): Luca Bettarelli, Davide Furceri, Prakash Loungani, Jonathan D. Ostry, Loredana Pisano</p>"
-        },
-        {
-          "title": "Editorial Board",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001530?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001530",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: October 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 80</p><p>Author(s): </p>"
         },
         {
           "title": "Impacts of Public-Private International Sustainable Finance on Achieving Global Climate Goals Through Innovation and Technology Diffusion",
