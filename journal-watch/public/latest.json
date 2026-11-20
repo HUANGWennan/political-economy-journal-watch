@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-19T16:36:13.702733+00:00",
+  "generated_utc": "2026-11-20T16:10:47.224835+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "rss_url": "https://academic.oup.com/rss/site_5437/3298.xml",
-      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
+      "checked_utc": "2026-11-20T16:10:47.224835+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -112,7 +112,7 @@
     {
       "journal": "Contributions to Political Economy",
       "rss_url": "https://academic.oup.com/rss/site_5445/3306.xml",
-      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
+      "checked_utc": "2026-11-20T16:10:47.224835+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -287,11 +287,11 @@
     {
       "journal": "Economic Systems Research",
       "rss_url": "https://www.tandfonline.com/feed/rss/cesr20",
-      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
+      "checked_utc": "2026-11-20T16:10:47.224835+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 34,
+      "items_count": 26,
       "latest_feed_date": "2026-10-23T12:32:35Z",
       "possibly_stale": true,
       "items": [
@@ -374,7 +374,7 @@
           "doi": "10.1080/09535314.2026.2710608",
           "feed_date": "2026-08-25T11:13:48Z",
           "raw_date": "2026-08-25T11:13:48Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 38, Issue 4, December 2026, Page 570-583<br/>. <br/>"
         },
         {
           "title": "The socioeconomic impacts of energy transition: a macroeconomic energy- input–output model",
@@ -392,7 +392,7 @@
           "doi": "10.1080/09535314.2026.2655223",
           "feed_date": "2026-07-18T07:37:04Z",
           "raw_date": "2026-07-18T07:37:04Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 38, Issue 4, December 2026, Page 519-569<br/>. <br/>"
         },
         {
           "title": "Inequality in Brazil seen through consumption behavior: toward better economic modeling with utility function estimation",
@@ -401,7 +401,7 @@
           "doi": "10.1080/09535314.2026.2693990",
           "feed_date": "2026-07-08T10:54:17Z",
           "raw_date": "2026-07-08T10:54:17Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 38, Issue 4, December 2026, Page 683-708<br/>. <br/>"
         },
         {
           "title": "Informality and production linkages in the Philippines: evidence from an input–output analysis",
@@ -455,7 +455,7 @@
           "doi": "10.1080/09535314.2026.2651831",
           "feed_date": "2026-05-29T02:28:54Z",
           "raw_date": "2026-05-29T02:28:54Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 38, Issue 4, December 2026, Page 584-613<br/>. <br/>"
         },
         {
           "title": "Average propagation length analysis for carbon emission waves and pathways in China's electricity and heat sector",
@@ -464,7 +464,7 @@
           "doi": "10.1080/09535314.2026.2651835",
           "feed_date": "2026-05-23T01:16:21Z",
           "raw_date": "2026-05-23T01:16:21Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 38, Issue 4, December 2026, Page 614-641<br/>. <br/>"
         },
         {
           "title": "How do robots affect the domestic service value-added ratio of Chinese firms?",
@@ -482,7 +482,7 @@
           "doi": "10.1080/09535314.2026.2665841",
           "feed_date": "2026-05-20T11:06:53Z",
           "raw_date": "2026-05-20T11:06:53Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 38, Issue 4, December 2026, Page 642-660<br/>. <br/>"
         },
         {
           "title": "How does dual circulation drive employment in China? A novel input-output analysis distinguishing firm ownership",
@@ -491,16 +491,7 @@
           "doi": "10.1080/09535314.2026.2648978",
           "feed_date": "2026-05-20T11:00:17Z",
           "raw_date": "2026-05-20T11:00:17Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "Satellite account dependent sensitivity differences to source data uncertainty in environmentally extended multi-regional input-output footprint results",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09535314.2026.2638636?af=R",
-          "identifier": "doi:10.1080/09535314.2026.2638636",
-          "doi": "10.1080/09535314.2026.2638636",
-          "feed_date": "2026-05-07T04:03:03Z",
-          "raw_date": "2026-05-07T04:03:03Z",
-          "summary_excerpt": "Volume 38, Issue 3, September 2026, Page 345-377<br/>. <br/>"
+          "summary_excerpt": "Volume 38, Issue 4, December 2026, Page 709-735<br/>. <br/>"
         },
         {
           "title": "Quantifying the impacts of multi-regional input–output data on emissions from imports",
@@ -518,25 +509,7 @@
           "doi": "10.1080/09535314.2026.2642089",
           "feed_date": "2026-03-13T02:33:59Z",
           "raw_date": "2026-03-13T02:33:59Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "Estimating concordance matrices using Artificial Intelligence",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09535314.2026.2635628?af=R",
-          "identifier": "doi:10.1080/09535314.2026.2635628",
-          "doi": "10.1080/09535314.2026.2635628",
-          "feed_date": "2026-03-10T05:41:48Z",
-          "raw_date": "2026-03-10T05:41:48Z",
-          "summary_excerpt": "Volume 38, Issue 3, September 2026, Page 330-344<br/>. <br/>"
-        },
-        {
-          "title": "A dynamic disequilibrium input–output model of the Belgian COVID-19 pandemic",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09535314.2026.2622365?af=R",
-          "identifier": "doi:10.1080/09535314.2026.2622365",
-          "doi": "10.1080/09535314.2026.2622365",
-          "feed_date": "2026-02-27T06:36:05Z",
-          "raw_date": "2026-02-27T06:36:05Z",
-          "summary_excerpt": "Volume 38, Issue 3, September 2026, Page 494-518<br/>. <br/>"
+          "summary_excerpt": "Volume 38, Issue 4, December 2026, Page 661-682<br/>. <br/>"
         },
         {
           "title": "China’s household carbon footprints: structural drivers and provincial disparities (2002–2022)",
@@ -548,42 +521,6 @@
           "summary_excerpt": ". <br/>"
         },
         {
-          "title": "Subnational MRIO building: the added value of household consumption and aggregate value-added data",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09535314.2025.2599092?af=R",
-          "identifier": "doi:10.1080/09535314.2025.2599092",
-          "doi": "10.1080/09535314.2025.2599092",
-          "feed_date": "2026-02-16T06:22:15Z",
-          "raw_date": "2026-02-16T06:22:15Z",
-          "summary_excerpt": "Volume 38, Issue 3, September 2026, Page 295-329<br/>. <br/>"
-        },
-        {
-          "title": "Global labor requirements in the world economy: a GVC decomposition approach",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09535314.2026.2618763?af=R",
-          "identifier": "doi:10.1080/09535314.2026.2618763",
-          "doi": "10.1080/09535314.2026.2618763",
-          "feed_date": "2026-02-09T06:14:40Z",
-          "raw_date": "2026-02-09T06:14:40Z",
-          "summary_excerpt": "Volume 38, Issue 3, September 2026, Page 401-433<br/>. <br/>"
-        },
-        {
-          "title": "A macroeconomic analysis of the impact of productivity-enhancing European Social Fund interventions on regional educational mismatch",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09535314.2026.2616508?af=R",
-          "identifier": "doi:10.1080/09535314.2026.2616508",
-          "doi": "10.1080/09535314.2026.2616508",
-          "feed_date": "2026-02-09T06:10:12Z",
-          "raw_date": "2026-02-09T06:10:12Z",
-          "summary_excerpt": "Volume 38, Issue 3, September 2026, Page 465-493<br/>. <br/>"
-        },
-        {
-          "title": "Quantifying carbon reduction from dietary behavioral changes in Taiwan",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09535314.2025.2606313?af=R",
-          "identifier": "doi:10.1080/09535314.2025.2606313",
-          "doi": "10.1080/09535314.2025.2606313",
-          "feed_date": "2026-02-03T10:50:56Z",
-          "raw_date": "2026-02-03T10:50:56Z",
-          "summary_excerpt": "Volume 38, Issue 3, September 2026, Page 434-464<br/>. <br/>"
-        },
-        {
           "title": "Linking the sustainable development goals to input–output analysis: sensitivity of indicators to global input coefficients for renewable electricity production",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09535314.2025.2602033?af=R",
           "identifier": "doi:10.1080/09535314.2025.2602033",
@@ -591,22 +528,13 @@
           "feed_date": "2026-01-28T02:02:18Z",
           "raw_date": "2026-01-28T02:02:18Z",
           "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "Can an information and communication technology (ICT) satellite account help us to understand digital sovereignty?",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09535314.2025.2551530?af=R",
-          "identifier": "doi:10.1080/09535314.2025.2551530",
-          "doi": "10.1080/09535314.2025.2551530",
-          "feed_date": "2025-08-31T12:51:19Z",
-          "raw_date": "2025-08-31T12:51:19Z",
-          "summary_excerpt": "Volume 38, Issue 3, September 2026, Page 378-400<br/>. <br/>"
         }
       ]
     },
     {
       "journal": "International Journal of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/mijp20",
-      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
+      "checked_utc": "2026-11-20T16:10:47.224835+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -763,7 +691,7 @@
     {
       "journal": "International Review of Applied Economics",
       "rss_url": "https://www.tandfonline.com/feed/rss/cira20",
-      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
+      "checked_utc": "2026-11-20T16:10:47.224835+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -1325,14 +1253,23 @@
     {
       "journal": "New Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/cnpe20",
-      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
+      "checked_utc": "2026-11-20T16:10:47.224835+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 110,
-      "latest_feed_date": "2026-11-17T06:14:43Z",
+      "items_count": 111,
+      "latest_feed_date": "2026-11-18T10:40:15Z",
       "possibly_stale": false,
       "items": [
+        {
+          "title": "Civilisational capitalism: the economic thinking of the European New Right",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2759594?af=R",
+          "identifier": "doi:10.1080/13563467.2026.2759594",
+          "doi": "10.1080/13563467.2026.2759594",
+          "feed_date": "2026-11-18T10:40:15Z",
+          "raw_date": "2026-11-18T10:40:15Z",
+          "summary_excerpt": ". <br/>"
+        },
         {
           "title": "Regional green growth coalitions and the eco-social-growth trilemma: the case of the automotive industry in West Sweden",
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2761460?af=R",
@@ -2328,7 +2265,7 @@
     {
       "journal": "Review of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/crpe20",
-      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
+      "checked_utc": "2026-11-20T16:10:47.224835+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -3655,11 +3592,11 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "rss_url": "https://rss.sciencedirect.com/publication/science/0954349X",
-      "checked_utc": "2026-11-19T16:36:13.702733+00:00",
+      "checked_utc": "2026-11-20T16:10:47.224835+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/rss+xml",
-      "items_count": 40,
+      "items_count": 41,
       "latest_feed_date": null,
       "possibly_stale": true,
       "items": [
@@ -3977,6 +3914,15 @@
           "feed_date": null,
           "raw_date": "",
           "summary_excerpt": "<p>Publication date: December 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 81</p><p>Author(s): Hyun Woong Park</p>"
+        },
+        {
+          "title": "Urban Health Policy as a Driver of Green Technology Innovation: Evidence from China",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001979?dgcid=rss_sd_all",
+          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001979",
+          "doi": null,
+          "feed_date": null,
+          "raw_date": "",
+          "summary_excerpt": "<p>Publication date: Available online 19 November 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Junpei Huang, Zhuoguang Wu, Meiying Huang</p>"
         },
         {
           "title": "Industry relatedness and technological diversification across patent applicants: evidence from Brazil",
