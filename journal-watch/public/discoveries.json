@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-20T16:10:47.224835Z",
-  "total_historical_articles": 497,
-  "new_this_run": 2,
+  "generated_utc": "2026-11-21T15:23:56.089979Z",
+  "total_historical_articles": 498,
+  "new_this_run": 1,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
     "Economic Systems Research": 0,
     "International Journal of Political Economy": 0,
     "International Review of Applied Economics": 0,
-    "New Political Economy": 1,
+    "New Political Economy": 0,
     "Review of Political Economy": 0,
     "Structural Change and Economic Dynamics": 1
   },
@@ -42,7 +42,7 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "new": 1
+      "new": 0
     },
     {
       "journal": "Review of Political Economy",
@@ -57,6 +57,15 @@
   ],
   "recent_window_days": 45,
   "recent_discoveries": [
+    {
+      "id": "d699a8d024e2cf3ff40a689e",
+      "journal": "Structural Change and Economic Dynamics",
+      "title": "Divergence: Unconditional, Conditional and in OECD",
+      "doi": null,
+      "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001967?dgcid=rss_sd_all",
+      "feed_date": null,
+      "first_seen_utc": "2026-11-21T15:23:56.089979Z"
+    },
     {
       "id": "54db8c092715e5447cf7659b",
       "journal": "New Political Economy",
