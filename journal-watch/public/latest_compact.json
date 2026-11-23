@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-22T15:21:41.861956+00:00",
+  "generated_utc": "2026-11-23T19:15:41.749643+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "status": "ok",
-      "checked_utc": "2026-11-22T15:21:41.861956+00:00",
+      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
       "latest_feed_date": "2026-09-23T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 10,
@@ -69,7 +69,7 @@
     {
       "journal": "Contributions to Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-22T15:21:41.861956+00:00",
+      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
       "latest_feed_date": "2026-08-18T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 18,
@@ -80,7 +80,7 @@
     {
       "journal": "Economic Systems Research",
       "status": "ok",
-      "checked_utc": "2026-11-22T15:21:41.861956+00:00",
+      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
       "latest_feed_date": "2026-10-23T12:32:35Z",
       "possibly_stale": true,
       "total_feed_items": 26,
@@ -132,12 +132,6 @@
           "link": "https://www.tandfonline.com/doi/full/10.1080/09535314.2026.2694715?af=R",
           "doi": "10.1080/09535314.2026.2694715",
           "feed_date": "2026-08-27T10:35:37Z"
-        },
-        {
-          "title": "Balancing matrices with both positive and negative entries: a generalized cross-entropy solution",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09535314.2026.2710608?af=R",
-          "doi": "10.1080/09535314.2026.2710608",
-          "feed_date": "2026-08-25T11:13:48Z"
         }
       ],
       "filtered_or_capped": false,
@@ -146,7 +140,7 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-22T15:21:41.861956+00:00",
+      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
       "latest_feed_date": "2026-11-12T02:34:50Z",
       "possibly_stale": false,
       "total_feed_items": 16,
@@ -254,7 +248,7 @@
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "checked_utc": "2026-11-22T15:21:41.861956+00:00",
+      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
       "latest_feed_date": "2026-11-02T01:57:31Z",
       "possibly_stale": true,
       "total_feed_items": 61,
@@ -326,7 +320,7 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-22T15:21:41.861956+00:00",
+      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
       "latest_feed_date": "2026-11-18T10:40:15Z",
       "possibly_stale": false,
       "total_feed_items": 111,
@@ -578,7 +572,7 @@
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-22T15:21:41.861956+00:00",
+      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
       "latest_feed_date": "2026-11-18T10:24:04Z",
       "possibly_stale": false,
       "total_feed_items": 146,
@@ -830,11 +824,23 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "checked_utc": "2026-11-22T15:21:41.861956+00:00",
+      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
       "latest_feed_date": null,
       "possibly_stale": true,
-      "total_feed_items": 42,
+      "total_feed_items": 43,
       "items": [
+        {
+          "title": "Does vertical common ownership affect credit spreads of upstream and downstream firms?",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001918?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
+        {
+          "title": "Industry relatedness and technological diversification across patent applicants: evidence from Brazil",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001955?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
         {
           "title": "Digital knowledge and market power: A firm-level analysis based on complexity theory",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001943?dgcid=rss_sd_all",
@@ -1052,26 +1058,14 @@
           "feed_date": null
         },
         {
+          "title": "The diffusion of augmentative digital technologies and firm innovation mode: <em>Employee level evidence from Danish regions</em>",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001906?dgcid=rss_sd_all",
+          "doi": null,
+          "feed_date": null
+        },
+        {
           "title": "Divergence: Unconditional, Conditional and in OECD",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001967?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "Urban Health Policy as a Driver of Green Technology Innovation: Evidence from China",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001979?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "Industry relatedness and technological diversification across patent applicants: evidence from Brazil",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001955?dgcid=rss_sd_all",
-          "doi": null,
-          "feed_date": null
-        },
-        {
-          "title": "Does Vertical Common Ownership Affect Credit Spreads of Upstream and Downstream Firms?",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001918?dgcid=rss_sd_all",
           "doi": null,
           "feed_date": null
         }

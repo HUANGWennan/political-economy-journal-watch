@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-22T15:21:41.861956Z",
-  "total_historical_articles": 498,
-  "new_this_run": 0,
+  "generated_utc": "2026-11-23T19:15:41.749643Z",
+  "total_historical_articles": 499,
+  "new_this_run": 1,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
@@ -11,7 +11,7 @@
     "International Review of Applied Economics": 0,
     "New Political Economy": 0,
     "Review of Political Economy": 0,
-    "Structural Change and Economic Dynamics": 0
+    "Structural Change and Economic Dynamics": 1
   },
   "feeds": [
     {
@@ -52,11 +52,20 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "new": 0
+      "new": 1
     }
   ],
   "recent_window_days": 45,
   "recent_discoveries": [
+    {
+      "id": "53d046789dde730cc4935cb0",
+      "journal": "Structural Change and Economic Dynamics",
+      "title": "The diffusion of augmentative digital technologies and firm innovation mode: <em>Employee level evidence from Danish regions</em>",
+      "doi": null,
+      "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001906?dgcid=rss_sd_all",
+      "feed_date": null,
+      "first_seen_utc": "2026-11-23T19:15:41.749643Z"
+    },
     {
       "id": "d699a8d024e2cf3ff40a689e",
       "journal": "Structural Change and Economic Dynamics",
@@ -222,7 +231,7 @@
     {
       "id": "a595024aac625e97cd6cadb1",
       "journal": "Structural Change and Economic Dynamics",
-      "title": "Does Vertical Common Ownership Affect Credit Spreads of Upstream and Downstream Firms?",
+      "title": "Does vertical common ownership affect credit spreads of upstream and downstream firms?",
       "doi": null,
       "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001918?dgcid=rss_sd_all",
       "feed_date": null,
