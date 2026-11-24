@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-23T19:15:41.749643Z",
-  "total_historical_articles": 499,
-  "new_this_run": 1,
+  "generated_utc": "2026-11-24T18:54:54.893031Z",
+  "total_historical_articles": 508,
+  "new_this_run": 9,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
     "Economic Systems Research": 0,
-    "International Journal of Political Economy": 0,
-    "International Review of Applied Economics": 0,
-    "New Political Economy": 0,
-    "Review of Political Economy": 0,
-    "Structural Change and Economic Dynamics": 1
+    "International Journal of Political Economy": 1,
+    "International Review of Applied Economics": 1,
+    "New Political Economy": 2,
+    "Review of Political Economy": 5,
+    "Structural Change and Economic Dynamics": 0
   },
   "feeds": [
     {
@@ -32,31 +32,112 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "new": 0
+      "new": 1
     },
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "new": 0
+      "new": 1
     },
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "new": 0
+      "new": 2
     },
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "new": 0
+      "new": 5
     },
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "new": 1
+      "new": 0
     }
   ],
   "recent_window_days": 45,
   "recent_discoveries": [
+    {
+      "id": "fc0dfe29ea7aa54918979733",
+      "journal": "International Journal of Political Economy",
+      "title": "Bande à part: Uneven GVC Integration and the Core–Periphery Divide in the European Union",
+      "doi": "10.1080/08911916.2026.2754834",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2754834?af=R",
+      "feed_date": "2026-11-22T07:44:19Z",
+      "first_seen_utc": "2026-11-24T18:54:54.893031Z"
+    },
+    {
+      "id": "f1bd81820cb7c9d6b32d1cc6",
+      "journal": "International Review of Applied Economics",
+      "title": "From comparative advantage to strategic resilience: the drivers and dynamics of deglobalization and regional restructuring",
+      "doi": "10.1080/02692171.2026.2763418",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/02692171.2026.2763418?af=R",
+      "feed_date": "2026-11-20T02:09:11Z",
+      "first_seen_utc": "2026-11-24T18:54:54.893031Z"
+    },
+    {
+      "id": "2aef7f2fa37f2eaa8510c813",
+      "journal": "New Political Economy",
+      "title": "Disaggregating workplace domination: supervision, governance, and ownership",
+      "doi": "10.1080/13563467.2026.2759585",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2759585?af=R",
+      "feed_date": "2026-11-21T06:13:56Z",
+      "first_seen_utc": "2026-11-24T18:54:54.893031Z"
+    },
+    {
+      "id": "8f03cf67839623498d8e2202",
+      "journal": "New Political Economy",
+      "title": "Ethical concern without collective power: consumer agency and labour precarity in Indonesia’s platform economy",
+      "doi": "10.1080/13563467.2026.2765472",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2765472?af=R",
+      "feed_date": "2026-11-21T01:54:20Z",
+      "first_seen_utc": "2026-11-24T18:54:54.893031Z"
+    },
+    {
+      "id": "6c3ba42712fd14302ff341de",
+      "journal": "Review of Political Economy",
+      "title": "The Institutional Determinants of Liquidity",
+      "doi": "10.1080/09538259.2026.2763764",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2763764?af=R",
+      "feed_date": "2026-11-24T08:59:30Z",
+      "first_seen_utc": "2026-11-24T18:54:54.893031Z"
+    },
+    {
+      "id": "d4f106b90852acdef21e14cd",
+      "journal": "Review of Political Economy",
+      "title": "Economic Diversification and Sustainability in the Gulf Cooperation Council",
+      "doi": "10.1080/09538259.2026.2758513",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2758513?af=R",
+      "feed_date": "2026-11-24T08:58:00Z",
+      "first_seen_utc": "2026-11-24T18:54:54.893031Z"
+    },
+    {
+      "id": "fea89df099add62174737708",
+      "journal": "Review of Political Economy",
+      "title": "The Great Global Transformation: National Market Liberalism in a Multipolar World",
+      "doi": "10.1080/09538259.2026.2765377",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2765377?af=R",
+      "feed_date": "2026-11-24T08:57:15Z",
+      "first_seen_utc": "2026-11-24T18:54:54.893031Z"
+    },
+    {
+      "id": "96c6b73244e6b9d6d9fd99b6",
+      "journal": "Review of Political Economy",
+      "title": "Rethinking Universal Basic Income: Dependency, Labour, and Social Reproduction",
+      "doi": "10.1080/09538259.2026.2763033",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2763033?af=R",
+      "feed_date": "2026-11-24T08:56:43Z",
+      "first_seen_utc": "2026-11-24T18:54:54.893031Z"
+    },
+    {
+      "id": "1223766346620aaf23067b87",
+      "journal": "Review of Political Economy",
+      "title": "Value, Hierarchy, and Shadow Money: Integrating Marxist Political Economy and the Money View",
+      "doi": "10.1080/09538259.2026.2760449",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2760449?af=R",
+      "feed_date": "2026-11-23T09:00:13Z",
+      "first_seen_utc": "2026-11-24T18:54:54.893031Z"
+    },
     {
       "id": "53d046789dde730cc4935cb0",
       "journal": "Structural Change and Economic Dynamics",

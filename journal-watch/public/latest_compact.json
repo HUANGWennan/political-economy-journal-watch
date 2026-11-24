@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-23T19:15:41.749643+00:00",
+  "generated_utc": "2026-11-24T18:54:54.893031+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "status": "ok",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "latest_feed_date": "2026-09-23T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 10,
@@ -69,7 +69,7 @@
     {
       "journal": "Contributions to Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "latest_feed_date": "2026-08-18T00:00:00Z",
       "possibly_stale": true,
       "total_feed_items": 18,
@@ -80,7 +80,7 @@
     {
       "journal": "Economic Systems Research",
       "status": "ok",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "latest_feed_date": "2026-10-23T12:32:35Z",
       "possibly_stale": true,
       "total_feed_items": 26,
@@ -140,11 +140,17 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
-      "latest_feed_date": "2026-11-12T02:34:50Z",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
+      "latest_feed_date": "2026-11-22T07:44:19Z",
       "possibly_stale": false,
-      "total_feed_items": 16,
+      "total_feed_items": 17,
       "items": [
+        {
+          "title": "Bande à part: Uneven GVC Integration and the Core–Periphery Divide in the European Union",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2754834?af=R",
+          "doi": "10.1080/08911916.2026.2754834",
+          "feed_date": "2026-11-22T07:44:19Z"
+        },
         {
           "title": "Sub-Regional Development Banks in Sub-Saharan Africa: Exploring New Forms of Capitalization and Leveraging",
           "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2751998?af=R",
@@ -248,11 +254,17 @@
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
-      "latest_feed_date": "2026-11-02T01:57:31Z",
-      "possibly_stale": true,
-      "total_feed_items": 61,
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
+      "latest_feed_date": "2026-11-20T02:09:11Z",
+      "possibly_stale": false,
+      "total_feed_items": 62,
       "items": [
+        {
+          "title": "From comparative advantage to strategic resilience: the drivers and dynamics of deglobalization and regional restructuring",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/02692171.2026.2763418?af=R",
+          "doi": "10.1080/02692171.2026.2763418",
+          "feed_date": "2026-11-20T02:09:11Z"
+        },
         {
           "title": "How large is the provincial transfer multiplier for consumption: evidence from Canada",
           "link": "https://www.tandfonline.com/doi/full/10.1080/02692171.2026.2756933?af=R",
@@ -320,11 +332,23 @@
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
-      "latest_feed_date": "2026-11-18T10:40:15Z",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
+      "latest_feed_date": "2026-11-21T06:13:56Z",
       "possibly_stale": false,
-      "total_feed_items": 111,
+      "total_feed_items": 102,
       "items": [
+        {
+          "title": "Disaggregating workplace domination: supervision, governance, and ownership",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2759585?af=R",
+          "doi": "10.1080/13563467.2026.2759585",
+          "feed_date": "2026-11-21T06:13:56Z"
+        },
+        {
+          "title": "Ethical concern without collective power: consumer agency and labour precarity in Indonesia’s platform economy",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2765472?af=R",
+          "doi": "10.1080/13563467.2026.2765472",
+          "feed_date": "2026-11-21T01:54:20Z"
+        },
         {
           "title": "Civilisational capitalism: the economic thinking of the European New Right",
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2759594?af=R",
@@ -546,37 +570,49 @@
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2722376?af=R",
           "doi": "10.1080/13563467.2026.2722376",
           "feed_date": "2026-08-28T03:47:42Z"
-        },
-        {
-          "title": "Making climate change manageable in an uninsurable world: the complex environmentalism of global reinsurers",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2723383?af=R",
-          "doi": "10.1080/13563467.2026.2723383",
-          "feed_date": "2026-08-26T11:18:41Z"
-        },
-        {
-          "title": "Geopolitical recoupling in a fragmenting global economy: diversification-led friendshoring in China’s agri-food production networks in Tanzania and Nigeria",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2722365?af=R",
-          "doi": "10.1080/13563467.2026.2722365",
-          "feed_date": "2026-08-26T06:33:19Z"
-        },
-        {
-          "title": "Unequal exchange between France and Africa’s CFA zone: monetary dependency and imperialist appropriation",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2716763?af=R",
-          "doi": "10.1080/13563467.2026.2716763",
-          "feed_date": "2026-08-26T06:06:25Z"
         }
       ],
-      "filtered_or_capped": true,
+      "filtered_or_capped": false,
       "error": null
     },
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
-      "latest_feed_date": "2026-11-18T10:24:04Z",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
+      "latest_feed_date": "2026-11-24T08:59:30Z",
       "possibly_stale": false,
-      "total_feed_items": 146,
+      "total_feed_items": 151,
       "items": [
+        {
+          "title": "The Institutional Determinants of Liquidity",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2763764?af=R",
+          "doi": "10.1080/09538259.2026.2763764",
+          "feed_date": "2026-11-24T08:59:30Z"
+        },
+        {
+          "title": "Economic Diversification and Sustainability in the Gulf Cooperation Council",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2758513?af=R",
+          "doi": "10.1080/09538259.2026.2758513",
+          "feed_date": "2026-11-24T08:58:00Z"
+        },
+        {
+          "title": "The Great Global Transformation: National Market Liberalism in a Multipolar World",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2765377?af=R",
+          "doi": "10.1080/09538259.2026.2765377",
+          "feed_date": "2026-11-24T08:57:15Z"
+        },
+        {
+          "title": "Rethinking Universal Basic Income: Dependency, Labour, and Social Reproduction",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2763033?af=R",
+          "doi": "10.1080/09538259.2026.2763033",
+          "feed_date": "2026-11-24T08:56:43Z"
+        },
+        {
+          "title": "Value, Hierarchy, and Shadow Money: Integrating Marxist Political Economy and the Money View",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2760449?af=R",
+          "doi": "10.1080/09538259.2026.2760449",
+          "feed_date": "2026-11-23T09:00:13Z"
+        },
         {
           "title": "Public Purpose, Private Pipelines: The British Business Bank and the London-Centred Geography of Credit",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2761014?af=R",
@@ -786,36 +822,6 @@
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724137?af=R",
           "doi": "10.1080/09538259.2026.2724137",
           "feed_date": "2026-09-10T09:54:46Z"
-        },
-        {
-          "title": "Some Reflections on THP from a Dual Perspective",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2728063?af=R",
-          "doi": "10.1080/09538259.2026.2728063",
-          "feed_date": "2026-09-10T09:54:23Z"
-        },
-        {
-          "title": "Monetary Sovereignty and Catastrophe Fiscal Capacity: Turkey, Japan, and the Limits of Disaster Self-Insurance",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2724127?af=R",
-          "doi": "10.1080/09538259.2026.2724127",
-          "feed_date": "2026-09-08T10:44:58Z"
-        },
-        {
-          "title": "From Formal Logic to Human Logic: An Inquiry into Keynes’s Philosophical Reasoning",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2722234?af=R",
-          "doi": "10.1080/09538259.2026.2722234",
-          "feed_date": "2026-09-03T08:10:47Z"
-        },
-        {
-          "title": "Reconceptualizing the Multiplier: The Role of Animal Spirits",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2714968?af=R",
-          "doi": "10.1080/09538259.2026.2714968",
-          "feed_date": "2026-09-01T09:46:29Z"
-        },
-        {
-          "title": "Shadow Banking in Keynes’s Writings: Banking Exposure, Collateral Runs and Liquidity",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2723504?af=R",
-          "doi": "10.1080/09538259.2026.2723504",
-          "feed_date": "2026-09-01T09:45:36Z"
         }
       ],
       "filtered_or_capped": true,
@@ -824,7 +830,7 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "status": "ok",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "latest_feed_date": null,
       "possibly_stale": true,
       "total_feed_items": 43,

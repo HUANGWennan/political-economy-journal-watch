@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-23T19:15:41.749643+00:00",
+  "generated_utc": "2026-11-24T18:54:54.893031+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "rss_url": "https://academic.oup.com/rss/site_5437/3298.xml",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -112,7 +112,7 @@
     {
       "journal": "Contributions to Political Economy",
       "rss_url": "https://academic.oup.com/rss/site_5445/3306.xml",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -287,7 +287,7 @@
     {
       "journal": "Economic Systems Research",
       "rss_url": "https://www.tandfonline.com/feed/rss/cesr20",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -534,14 +534,23 @@
     {
       "journal": "International Journal of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/mijp20",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 16,
-      "latest_feed_date": "2026-11-12T02:34:50Z",
+      "items_count": 17,
+      "latest_feed_date": "2026-11-22T07:44:19Z",
       "possibly_stale": false,
       "items": [
+        {
+          "title": "Bande à part: Uneven GVC Integration and the Core–Periphery Divide in the European Union",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2754834?af=R",
+          "identifier": "doi:10.1080/08911916.2026.2754834",
+          "doi": "10.1080/08911916.2026.2754834",
+          "feed_date": "2026-11-22T07:44:19Z",
+          "raw_date": "2026-11-22T07:44:19Z",
+          "summary_excerpt": ". <br/>"
+        },
         {
           "title": "Sub-Regional Development Banks in Sub-Saharan Africa: Exploring New Forms of Capitalization and Leveraging",
           "link": "https://www.tandfonline.com/doi/full/10.1080/08911916.2026.2751998?af=R",
@@ -691,14 +700,23 @@
     {
       "journal": "International Review of Applied Economics",
       "rss_url": "https://www.tandfonline.com/feed/rss/cira20",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 61,
-      "latest_feed_date": "2026-11-02T01:57:31Z",
-      "possibly_stale": true,
+      "items_count": 62,
+      "latest_feed_date": "2026-11-20T02:09:11Z",
+      "possibly_stale": false,
       "items": [
+        {
+          "title": "From comparative advantage to strategic resilience: the drivers and dynamics of deglobalization and regional restructuring",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/02692171.2026.2763418?af=R",
+          "identifier": "doi:10.1080/02692171.2026.2763418",
+          "doi": "10.1080/02692171.2026.2763418",
+          "feed_date": "2026-11-20T02:09:11Z",
+          "raw_date": "2026-11-20T02:09:11Z",
+          "summary_excerpt": ". <br/>"
+        },
         {
           "title": "How large is the provincial transfer multiplier for consumption: evidence from Canada",
           "link": "https://www.tandfonline.com/doi/full/10.1080/02692171.2026.2756933?af=R",
@@ -1253,14 +1271,32 @@
     {
       "journal": "New Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/cnpe20",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 111,
-      "latest_feed_date": "2026-11-18T10:40:15Z",
+      "items_count": 102,
+      "latest_feed_date": "2026-11-21T06:13:56Z",
       "possibly_stale": false,
       "items": [
+        {
+          "title": "Disaggregating workplace domination: supervision, governance, and ownership",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2759585?af=R",
+          "identifier": "doi:10.1080/13563467.2026.2759585",
+          "doi": "10.1080/13563467.2026.2759585",
+          "feed_date": "2026-11-21T06:13:56Z",
+          "raw_date": "2026-11-21T06:13:56Z",
+          "summary_excerpt": ". <br/>"
+        },
+        {
+          "title": "Ethical concern without collective power: consumer agency and labour precarity in Indonesia’s platform economy",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2765472?af=R",
+          "identifier": "doi:10.1080/13563467.2026.2765472",
+          "doi": "10.1080/13563467.2026.2765472",
+          "feed_date": "2026-11-21T01:54:20Z",
+          "raw_date": "2026-11-21T01:54:20Z",
+          "summary_excerpt": ". <br/>"
+        },
         {
           "title": "Civilisational capitalism: the economic thinking of the European New Right",
           "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2759594?af=R",
@@ -1727,7 +1763,7 @@
           "doi": "10.1080/13563467.2026.2659076",
           "feed_date": "2026-07-15T12:51:13Z",
           "raw_date": "2026-07-15T12:51:13Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 31, Issue 6, December 2026, Page 1108-1134<br/>. <br/>"
         },
         {
           "title": "Phantom decoupling: geoeconomic hydraulics and the rewiring of US–China interdependence",
@@ -2087,7 +2123,7 @@
           "doi": "10.1080/13563467.2026.2662987",
           "feed_date": "2026-05-08T01:04:07Z",
           "raw_date": "2026-05-08T01:04:07Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 31, Issue 6, December 2026, Page 1197-1220<br/>. <br/>"
         },
         {
           "title": "Incumbent popularity and the political life of Chinese megaprojects",
@@ -2105,7 +2141,7 @@
           "doi": "10.1080/13563467.2026.2662980",
           "feed_date": "2026-04-28T06:14:15Z",
           "raw_date": "2026-04-28T06:14:15Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 31, Issue 6, December 2026, Page 1178-1196<br/>. <br/>"
         },
         {
           "title": "Interpreting spillovers: the ECB, Fed interest rate hikes, and the persistence of dollar dominance",
@@ -2114,7 +2150,7 @@
           "doi": "10.1080/13563467.2026.2660815",
           "feed_date": "2026-04-28T05:08:55Z",
           "raw_date": "2026-04-28T05:08:55Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 31, Issue 6, December 2026, Page 1156-1177<br/>. <br/>"
         },
         {
           "title": "The political economy of ultra-activity in collective bargaining: explaining divergent post-crisis trajectories in Portugal and Spain",
@@ -2123,7 +2159,7 @@
           "doi": "10.1080/13563467.2026.2654759",
           "feed_date": "2026-04-25T08:15:43Z",
           "raw_date": "2026-04-25T08:15:43Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 31, Issue 6, December 2026, Page 1061-1082<br/>. <br/>"
         },
         {
           "title": "Financing ‘sustainable welfare’: a critical review of the options",
@@ -2132,7 +2168,7 @@
           "doi": "10.1080/13563467.2026.2659887",
           "feed_date": "2026-04-24T06:32:58Z",
           "raw_date": "2026-04-24T06:32:58Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 31, Issue 6, December 2026, Page 1135-1155<br/>. <br/>"
         },
         {
           "title": "Feminist finance? The agendas and economies of gender lens investing",
@@ -2141,7 +2177,7 @@
           "doi": "10.1080/13563467.2026.2659073",
           "feed_date": "2026-04-16T07:12:29Z",
           "raw_date": "2026-04-16T07:12:29Z",
-          "summary_excerpt": ". <br/>"
+          "summary_excerpt": "Volume 31, Issue 6, December 2026, Page 1083-1107<br/>. <br/>"
         },
         {
           "title": "Why Africa turns to China: colonial legacies and the new politics of development finance",
@@ -2150,16 +2186,7 @@
           "doi": "10.1080/13563467.2026.2653235",
           "feed_date": "2026-04-08T07:31:53Z",
           "raw_date": "2026-04-08T07:31:53Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "Correction",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2655847?af=R",
-          "identifier": "doi:10.1080/13563467.2026.2655847",
-          "doi": "10.1080/13563467.2026.2655847",
-          "feed_date": "2026-04-06T06:43:54Z",
-          "raw_date": "2026-04-06T06:43:54Z",
-          "summary_excerpt": "Volume 31, Issue 5, October 2026, Page i-i<br/>. <br/>"
+          "summary_excerpt": "Volume 31, Issue 6, December 2026, Page 1021-1041<br/>. <br/>"
         },
         {
           "title": "The collective organic intellectual strikes back: the EBRD Transition Report, the state and the new state capitalism",
@@ -2168,111 +2195,66 @@
           "doi": "10.1080/13563467.2026.2653737",
           "feed_date": "2026-04-04T09:09:56Z",
           "raw_date": "2026-04-04T09:09:56Z",
-          "summary_excerpt": ". <br/>"
-        },
-        {
-          "title": "The limits of green concertation: business fragmentation and the political economy of the agricultural transition in the Netherlands",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2643433?af=R",
-          "identifier": "doi:10.1080/13563467.2026.2643433",
-          "doi": "10.1080/13563467.2026.2643433",
-          "feed_date": "2026-03-18T07:01:55Z",
-          "raw_date": "2026-03-18T07:01:55Z",
-          "summary_excerpt": "Volume 31, Issue 5, October 2026, Page 981-1001<br/>. <br/>"
-        },
-        {
-          "title": "Perpetuity and spend-down: the role of investment and technological transitions in philanthropy",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2642670?af=R",
-          "identifier": "doi:10.1080/13563467.2026.2642670",
-          "doi": "10.1080/13563467.2026.2642670",
-          "feed_date": "2026-03-17T07:37:50Z",
-          "raw_date": "2026-03-17T07:37:50Z",
-          "summary_excerpt": "Volume 31, Issue 5, October 2026, Page 966-980<br/>. <br/>"
-        },
-        {
-          "title": "Fictitious money: cryptocurrency as a social form",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2643434?af=R",
-          "identifier": "doi:10.1080/13563467.2026.2643434",
-          "doi": "10.1080/13563467.2026.2643434",
-          "feed_date": "2026-03-10T11:53:30Z",
-          "raw_date": "2026-03-10T11:53:30Z",
-          "summary_excerpt": "Volume 31, Issue 5, October 2026, Page 1002-1020<br/>. <br/>"
-        },
-        {
-          "title": "The political economy of authoritarian AI policy assemblages in the Global South: balancing innovation and digital control in comparative perspective",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2637132?af=R",
-          "identifier": "doi:10.1080/13563467.2026.2637132",
-          "doi": "10.1080/13563467.2026.2637132",
-          "feed_date": "2026-02-28T04:32:51Z",
-          "raw_date": "2026-02-28T04:32:51Z",
-          "summary_excerpt": "Volume 31, Issue 5, October 2026, Page 944-965<br/>. <br/>"
-        },
-        {
-          "title": "Projecting ambiguity in transnational environmental governance: who and what counts in accounting standards",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2627284?af=R",
-          "identifier": "doi:10.1080/13563467.2026.2627284",
-          "doi": "10.1080/13563467.2026.2627284",
-          "feed_date": "2026-02-26T05:12:35Z",
-          "raw_date": "2026-02-26T05:12:35Z",
-          "summary_excerpt": "Volume 31, Issue 5, October 2026, Page 840-863<br/>. <br/>"
-        },
-        {
-          "title": "Philanthrocapitalists in global social policy: ideational power and policy priorities",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2634773?af=R",
-          "identifier": "doi:10.1080/13563467.2026.2634773",
-          "doi": "10.1080/13563467.2026.2634773",
-          "feed_date": "2026-02-26T01:12:42Z",
-          "raw_date": "2026-02-26T01:12:42Z",
-          "summary_excerpt": "Volume 31, Issue 5, October 2026, Page 926-943<br/>. <br/>"
-        },
-        {
-          "title": "Evaluating democratic innovations through a participatory decommodification index",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2632251?af=R",
-          "identifier": "doi:10.1080/13563467.2026.2632251",
-          "doi": "10.1080/13563467.2026.2632251",
-          "feed_date": "2026-02-19T05:56:31Z",
-          "raw_date": "2026-02-19T05:56:31Z",
-          "summary_excerpt": "Volume 31, Issue 5, October 2026, Page 905-925<br/>. <br/>"
-        },
-        {
-          "title": "‘It would have slowed down the work’ – the challenges of gender sensitive economic policy",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2628834?af=R",
-          "identifier": "doi:10.1080/13563467.2026.2628834",
-          "doi": "10.1080/13563467.2026.2628834",
-          "feed_date": "2026-02-17T12:11:47Z",
-          "raw_date": "2026-02-17T12:11:47Z",
-          "summary_excerpt": "Volume 31, Issue 5, October 2026, Page 864-882<br/>. <br/>"
-        },
-        {
-          "title": "Re-politicising merger policy: regulating foreign takeovers in Britain and Italy",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2628837?af=R",
-          "identifier": "doi:10.1080/13563467.2026.2628837",
-          "doi": "10.1080/13563467.2026.2628837",
-          "feed_date": "2026-02-14T05:40:59Z",
-          "raw_date": "2026-02-14T05:40:59Z",
-          "summary_excerpt": "Volume 31, Issue 5, October 2026, Page 883-904<br/>. <br/>"
-        },
-        {
-          "title": "Centimanes v. Titans: right-wing populist governments’ treatment of foreign multinationals in East Central Europe",
-          "link": "https://www.tandfonline.com/doi/full/10.1080/13563467.2026.2624414?af=R",
-          "identifier": "doi:10.1080/13563467.2026.2624414",
-          "doi": "10.1080/13563467.2026.2624414",
-          "feed_date": "2026-02-09T06:47:39Z",
-          "raw_date": "2026-02-09T06:47:39Z",
-          "summary_excerpt": "Volume 31, Issue 5, October 2026, Page 817-839<br/>. <br/>"
+          "summary_excerpt": "Volume 31, Issue 6, December 2026, Page 1042-1060<br/>. <br/>"
         }
       ]
     },
     {
       "journal": "Review of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/crpe20",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
-      "items_count": 146,
-      "latest_feed_date": "2026-11-18T10:24:04Z",
+      "items_count": 151,
+      "latest_feed_date": "2026-11-24T08:59:30Z",
       "possibly_stale": false,
       "items": [
+        {
+          "title": "The Institutional Determinants of Liquidity",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2763764?af=R",
+          "identifier": "doi:10.1080/09538259.2026.2763764",
+          "doi": "10.1080/09538259.2026.2763764",
+          "feed_date": "2026-11-24T08:59:30Z",
+          "raw_date": "2026-11-24T08:59:30Z",
+          "summary_excerpt": ". <br/>"
+        },
+        {
+          "title": "Economic Diversification and Sustainability in the Gulf Cooperation Council",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2758513?af=R",
+          "identifier": "doi:10.1080/09538259.2026.2758513",
+          "doi": "10.1080/09538259.2026.2758513",
+          "feed_date": "2026-11-24T08:58:00Z",
+          "raw_date": "2026-11-24T08:58:00Z",
+          "summary_excerpt": ". <br/>"
+        },
+        {
+          "title": "The Great Global Transformation: National Market Liberalism in a Multipolar World",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2765377?af=R",
+          "identifier": "doi:10.1080/09538259.2026.2765377",
+          "doi": "10.1080/09538259.2026.2765377",
+          "feed_date": "2026-11-24T08:57:15Z",
+          "raw_date": "2026-11-24T08:57:15Z",
+          "summary_excerpt": ". <br/>"
+        },
+        {
+          "title": "Rethinking Universal Basic Income: Dependency, Labour, and Social Reproduction",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2763033?af=R",
+          "identifier": "doi:10.1080/09538259.2026.2763033",
+          "doi": "10.1080/09538259.2026.2763033",
+          "feed_date": "2026-11-24T08:56:43Z",
+          "raw_date": "2026-11-24T08:56:43Z",
+          "summary_excerpt": ". <br/>"
+        },
+        {
+          "title": "Value, Hierarchy, and Shadow Money: Integrating Marxist Political Economy and the Money View",
+          "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2760449?af=R",
+          "identifier": "doi:10.1080/09538259.2026.2760449",
+          "doi": "10.1080/09538259.2026.2760449",
+          "feed_date": "2026-11-23T09:00:13Z",
+          "raw_date": "2026-11-23T09:00:13Z",
+          "summary_excerpt": ". <br/>"
+        },
         {
           "title": "Public Purpose, Private Pipelines: The British Business Bank and the London-Centred Geography of Credit",
           "link": "https://www.tandfonline.com/doi/full/10.1080/09538259.2026.2761014?af=R",
@@ -3592,7 +3574,7 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "rss_url": "https://rss.sciencedirect.com/publication/science/0954349X",
-      "checked_utc": "2026-11-23T19:15:41.749643+00:00",
+      "checked_utc": "2026-11-24T18:54:54.893031+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/rss+xml",
