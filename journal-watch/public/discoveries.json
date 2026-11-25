@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-24T18:54:54.893031Z",
+  "generated_utc": "2026-11-25T17:59:03.623850Z",
   "total_historical_articles": 508,
-  "new_this_run": 9,
+  "new_this_run": 0,
   "new_by_journal": {
     "Cambridge Journal of Economics": 0,
     "Contributions to Political Economy": 0,
     "Economic Systems Research": 0,
-    "International Journal of Political Economy": 1,
-    "International Review of Applied Economics": 1,
-    "New Political Economy": 2,
-    "Review of Political Economy": 5,
+    "International Journal of Political Economy": 0,
+    "International Review of Applied Economics": 0,
+    "New Political Economy": 0,
+    "Review of Political Economy": 0,
     "Structural Change and Economic Dynamics": 0
   },
   "feeds": [
@@ -32,22 +32,22 @@
     {
       "journal": "International Journal of Political Economy",
       "status": "ok",
-      "new": 1
+      "new": 0
     },
     {
       "journal": "International Review of Applied Economics",
       "status": "ok",
-      "new": 1
+      "new": 0
     },
     {
       "journal": "New Political Economy",
       "status": "ok",
-      "new": 2
+      "new": 0
     },
     {
       "journal": "Review of Political Economy",
       "status": "ok",
-      "new": 5
+      "new": 0
     },
     {
       "journal": "Structural Change and Economic Dynamics",
