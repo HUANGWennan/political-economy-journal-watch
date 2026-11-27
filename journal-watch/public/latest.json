@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_utc": "2026-11-26T17:45:07.082219+00:00",
+  "generated_utc": "2026-11-27T17:28:59.321225+00:00",
   "status": "ok",
   "ok_feeds": 8,
   "total_feeds": 8,
@@ -9,7 +9,7 @@
     {
       "journal": "Cambridge Journal of Economics",
       "rss_url": "https://academic.oup.com/rss/site_5437/3298.xml",
-      "checked_utc": "2026-11-26T17:45:07.082219+00:00",
+      "checked_utc": "2026-11-27T17:28:59.321225+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -112,7 +112,7 @@
     {
       "journal": "Contributions to Political Economy",
       "rss_url": "https://academic.oup.com/rss/site_5445/3306.xml",
-      "checked_utc": "2026-11-26T17:45:07.082219+00:00",
+      "checked_utc": "2026-11-27T17:28:59.321225+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "text/xml",
@@ -287,7 +287,7 @@
     {
       "journal": "Economic Systems Research",
       "rss_url": "https://www.tandfonline.com/feed/rss/cesr20",
-      "checked_utc": "2026-11-26T17:45:07.082219+00:00",
+      "checked_utc": "2026-11-27T17:28:59.321225+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -534,7 +534,7 @@
     {
       "journal": "International Journal of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/mijp20",
-      "checked_utc": "2026-11-26T17:45:07.082219+00:00",
+      "checked_utc": "2026-11-27T17:28:59.321225+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -700,7 +700,7 @@
     {
       "journal": "International Review of Applied Economics",
       "rss_url": "https://www.tandfonline.com/feed/rss/cira20",
-      "checked_utc": "2026-11-26T17:45:07.082219+00:00",
+      "checked_utc": "2026-11-27T17:28:59.321225+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -1271,7 +1271,7 @@
     {
       "journal": "New Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/cnpe20",
-      "checked_utc": "2026-11-26T17:45:07.082219+00:00",
+      "checked_utc": "2026-11-27T17:28:59.321225+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -2202,7 +2202,7 @@
     {
       "journal": "Review of Political Economy",
       "rss_url": "https://www.tandfonline.com/feed/rss/crpe20",
-      "checked_utc": "2026-11-26T17:45:07.082219+00:00",
+      "checked_utc": "2026-11-27T17:28:59.321225+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/xml;charset=UTF-8",
@@ -3574,7 +3574,7 @@
     {
       "journal": "Structural Change and Economic Dynamics",
       "rss_url": "https://rss.sciencedirect.com/publication/science/0954349X",
-      "checked_utc": "2026-11-26T17:45:07.082219+00:00",
+      "checked_utc": "2026-11-27T17:28:59.321225+00:00",
       "status": "ok",
       "http_status": 200,
       "content_type": "application/rss+xml",
@@ -3582,6 +3582,15 @@
       "latest_feed_date": null,
       "possibly_stale": true,
       "items": [
+        {
+          "title": "Urban health policy as a driver of green technology innovation: evidence from China",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001979?dgcid=rss_sd_all",
+          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001979",
+          "doi": null,
+          "feed_date": null,
+          "raw_date": "",
+          "summary_excerpt": "<p>Publication date: January 2027</p><p><b>Source:</b> Structural Change and Economic Dynamics, Volume 82</p><p>Author(s): Junpei Huang, Zhuoguang Wu, Meiying Huang</p>"
+        },
         {
           "title": "Does vertical common ownership affect credit spreads of upstream and downstream firms?",
           "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001918?dgcid=rss_sd_all",
@@ -3941,15 +3950,6 @@
           "feed_date": null,
           "raw_date": "",
           "summary_excerpt": "<p>Publication date: Available online 20 November 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Chander Kant</p>"
-        },
-        {
-          "title": "Urban Health Policy as a Driver of Green Technology Innovation: Evidence from China",
-          "link": "https://www.sciencedirect.com/science/article/pii/S0954349X26001979?dgcid=rss_sd_all",
-          "identifier": "https://www.sciencedirect.com/science/article/pii/S0954349X26001979",
-          "doi": null,
-          "feed_date": null,
-          "raw_date": "",
-          "summary_excerpt": "<p>Publication date: Available online 19 November 2026</p><p><b>Source:</b> Structural Change and Economic Dynamics</p><p>Author(s): Junpei Huang, Zhuoguang Wu, Meiying Huang</p>"
         },
         {
           "title": "Digital Innovation and NextGenerationEU: Spatial Patterns in Italian Local Government Performance",
